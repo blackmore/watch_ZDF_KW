@@ -1,0 +1,176 @@
+0 - Eine Einblendun...	10:00:17:15
+1 - Sie stehen im K...	10:00:29:10
+2 - Marten:...	10:00:40:00
+3 - Ehlers nimmt se...	10:00:48:13
+4 - Gruber reicht E...	10:01:05:13
+5 - Sie kramt in ih...	10:01:14:01
+6 - Henrike Matani ...	10:01:37:14
+7 - Auf der Ostsee....	10:01:58:05
+8 - Sie mustert ihn...	10:02:32:16
+9 - Sie schaut inte...	10:02:56:07
+10 - Er holt eine gr...	10:03:06:07
+11 - Vorsichtig hebt...	10:03:11:05
+12 - Sie blickt geba...	10:03:21:14
+13 - Er holt eine Fl...	10:03:30:02
+14 - Lächelnd streic...	10:03:43:22
+15 - Die Milchglastü...	10:03:58:13
+16 - Mit Schrecken i...	10:04:16:05
+17 - Sie greift zum ...	10:04:31:23
+18 - Sie legt den Hö...	10:04:46:09
+19 - Wiedemann liegt...	10:05:00:13
+20 - Die Küstenwache...	10:05:12:15
+21 - Ehlers und ein ...	10:05:55:18
+22 - Ehlers öffnet d...	10:06:04:07
+23 - Henrike eilt au...	10:06:18:17
+24 - Der Sanitäter z...	10:06:22:15
+25 - Wiedemann hält ...	10:06:40:06
+26 - Ehlers dreht da...	10:06:45:09
+27 - In einem Kranke...	10:06:51:24
+28 - Wiedemann liegt...	10:06:56:18
+29 - Im Gemeinschaft...	10:07:20:20
+30 - Pia:...	10:07:38:08
+31 - Kai reicht Ehle...	10:08:03:12
+32 - Gruber:...	10:08:07:18
+33 - Ehlers schüttel...	10:08:26:22
+34 - Henrike telefon...	10:09:27:21
+35 - Vor ihr steht e...	10:09:36:10
+36 - Sie schaut verd...	10:09:49:22
+37 - Sie legt das Ha...	10:09:54:23
+38 - Saskia und Tris...	10:09:58:08
+39 - Saskia läuft um...	10:10:18:24
+40 - Zander sitzt am...	10:10:30:04
+41 - Er runzelt die ...	10:10:41:18
+42 - Er schaut zur S...	10:10:44:12
+43 - Er schaut verwu...	10:11:05:14
+44 - Saskia merkt au...	10:11:16:16
+45 - Henrike in ihre...	10:11:19:18
+46 - Im Gemeinschaft...	10:11:36:12
+47 - Ehlers und Grub...	10:11:42:08
+48 - Mit versteinert...	10:11:51:13
+49 - Die Tür schließ...	10:11:59:14
+50 - Ehlers stutzt....	10:12:27:16
+51 - Ehlers verdreht...	10:12:41:24
+52 - Ehlers schaut z...	10:12:48:14
+53 - Mit missmutigem...	10:12:54:02
+54 - Mit leicht ange...	10:13:03:17
+55 - Ehlers setzt si...	10:13:23:20
+56 - Kai deutet auf ...	10:13:48:05
+57 - Marten tut, als...	10:14:09:18
+58 - Ehlers sieht da...	10:14:35:13
+59 - Ehlers sieht He...	10:14:54:21
+60 - Saskia blickt s...	10:15:16:13
+61 - Die Gräfin:...	10:15:25:05
+62 - Er senkt den Ko...	10:15:33:22
+63 - Die Gräfin scha...	10:16:10:09
+64 - Sie geht zum Te...	10:16:32:11
+65 - Die Gräfin sieh...	10:16:36:12
+66 - Sie legt den Hö...	10:16:41:20
+67 - Ehlers gibt ihr...	10:17:10:14
+68 - Ehlers und Sask...	10:17:20:03
+69 - Pia sieht Ben k...	10:17:40:06
+70 - Marten schaut a...	10:17:53:00
+71 - Eine Linse fäll...	10:18:29:00
+72 - Vor dem Eingang...	10:18:32:17
+73 - Er hebt grüßend...	10:19:03:08
+74 - Sie sieht sich ...	10:19:09:01
+75 - Sie gibt ihm da...	10:19:19:17
+76 - Ehlers zu Ben:...	10:19:33:12
+77 - Ben nimmt das G...	10:19:38:09
+78 - Ehlers geht hin...	10:19:48:18
+79 - Tristan Zander ...	10:20:08:01
+80 - Ehlers und Henr...	10:20:28:08
+81 - Ehlers hat die ...	10:20:42:09
+82 - Sie stellt sich...	10:21:02:24
+83 - Er blickt grimm...	10:21:08:14
+84 - Er geht kopfsch...	10:21:31:18
+85 - Sie hält ihn an...	10:21:34:12
+86 - Ehlers schaut s...	10:21:38:18
+87 - Sie geht wütend...	10:21:51:07
+88 - Sie wendet sich...	10:22:04:17
+89 - Zander steht au...	10:22:20:09
+90 - Er nimmt ein Bü...	10:22:28:17
+91 - Er steckt das B...	10:22:38:02
+92 - Sie steht im Ba...	10:22:44:19
+93 - Er hebt Henrike...	10:22:51:02
+94 - Henrike kommt h...	10:22:59:14
+95 - Der Kasten ist ...	10:23:05:13
+96 - Er lässt den De...	10:23:08:06
+97 - Sie schaut verw...	10:23:16:00
+98 - Sie sieht ihn v...	10:23:21:04
+99 - Ehlers wirft ei...	10:23:28:16
+100 - Ehlers am Handy...	10:23:37:07
+101 - Im Gemeinschaft...	10:23:43:18
+102 - Kai heftet den ...	10:23:47:00
+103 - Ehlers hebt ab....	10:24:33:17
+104 - Saskia läuft du...	10:24:35:24
+105 - Saskia dreht si...	10:24:43:15
+106 - Henrike nickt....	10:24:49:09
+107 - Ehlers schaut i...	10:25:06:20
+108 - In Ehlers' Gart...	10:25:25:03
+109 - Saskia steht au...	10:25:37:22
+110 - Saskia läuft du...	10:25:45:02
+111 - Im Gemeinschaft...	10:26:02:15
+112 - Pia sieht Ehler...	10:26:10:07
+113 - Er lächelt Pia ...	10:26:36:14
+114 - Kai schlägt ein...	10:26:46:14
+115 - Die Gräfin, Sas...	10:26:52:18
+116 - Sie geht durch ...	10:27:17:09
+117 - Im Gemeinschaft...	10:27:52:21
+118 - Im Vernehmungsr...	10:28:30:16
+119 - Zander sitzt am...	10:28:51:07
+120 - Ehlers öffnet d...	10:29:03:11
+121 - Im Gemeinschaft...	10:29:14:11
+122 - In Ehlers' Haus...	10:29:44:17
+123 - Ein Metallgegen...	10:29:54:12
+124 - Ehlers und Sask...	10:30:00:18
+125 - Ehlers, Saskia ...	10:30:07:02
+126 - Ehlers zeigt au...	10:30:17:03
+127 - Henrike setzt s...	10:30:41:04
+128 - Ehlers verlässt...	10:30:53:20
+129 - Er deutet mit d...	10:31:23:24
+130 - Der Beamte geht...	10:31:28:20
+131 - Im Gemeinschaft...	10:31:45:02
+132 - Ehlers geht zu ...	10:32:20:04
+133 - Kai kommt herei...	10:32:30:05
+134 - Saskia steht in...	10:33:13:03
+135 - Im Büro tippt E...	10:33:16:24
+136 - Er dreht sich z...	10:33:29:02
+137 - Henrike rennt a...	10:34:22:18
+138 - Er schüttelt ih...	10:34:30:17
+139 - Ehlers schaut b...	10:34:42:14
+140 - Sie sieht auf i...	10:34:59:20
+141 - Die Albatros II...	10:35:15:20
+142 - Henrike schaut ...	10:35:35:11
+143 - Er sieht sie er...	10:35:54:11
+144 - Er geht zum Mas...	10:36:02:20
+145 - Sie tritt hinte...	10:36:13:21
+146 - Er lächelt sie ...	10:36:21:03
+147 - Er streicht übe...	10:36:49:21
+148 - Sie geht zum Ma...	10:36:56:19
+149 - Auf der Brücke ...	10:37:12:12
+150 - Durch das Ferng...	10:37:21:12
+151 - Saskia bleibt a...	10:37:30:17
+152 - Marten und Ehle...	10:37:41:24
+153 - Wiedemann schau...	10:37:50:02
+154 - Henrike sitzt a...	10:37:54:04
+155 - Wiedemann klett...	10:38:01:03
+156 - Er zerrt sie zu...	10:38:05:08
+157 - Wiedemann schub...	10:38:18:00
+158 - Wiedemann klett...	10:38:23:17
+159 - Das Kontrollboo...	10:38:32:15
+160 - Es fährt mit ho...	10:38:36:22
+161 - Marten packt ih...	10:38:51:12
+162 - Marten zieht Wi...	10:39:07:09
+163 - Auf dem Kontrol...	10:39:19:01
+164 - Sie nickt. Ehle...	10:39:51:22
+165 - Gruber zu Pia u...	10:40:03:19
+166 - Ehlers kommt in...	10:40:36:00
+167 - Die Kollegen, e...	10:40:47:02
+168 - Gruber tritt an...	10:40:54:18
+169 - Ehlers tritt an...	10:41:22:23
+170 - Ehlers geht zu ...	10:41:49:18
+171 - Das Team stellt...	10:41:57:11
+172 - Er nimmt eine U...	10:42:07:00
+173 - Ehlers küsst He...	10:42:39:03
+174 - Saskia und Pia ...	10:42:44:10
+175 - Das war: Die Kü...	10:42:49:05

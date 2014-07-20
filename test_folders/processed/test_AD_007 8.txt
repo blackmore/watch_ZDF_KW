@@ -1,0 +1,758 @@
+0
+10:00:17:15 10:00:25:10
+Eine Einblendung: "Dienstag 9 Uhr 5, Einsatzzentrale".
+Ehlers, Saskia, Pia, Ben, Kai, Marten, Gruber und andere Beamte im Gemeinschaftsbüro.
+ 
+1
+10:00:29:10 10:00:34:19
+Sie stehen im Kreis beisammen. Gruber und Ehlers schütteln sich lächelnd die Hände. # Saskia:
+ 
+2
+10:00:40:00 10:00:40:18
+Marten:
+ 
+3
+10:00:48:13 10:00:52:20
+Ehlers nimmt sein Handy. Auf dem Display steht "Anruf von Henkrike".
+ 
+4
+10:01:05:13 10:01:07:06
+Gruber reicht Ehlers ein Glas Sekt.
+ 
+5
+10:01:14:01 10:01:15:03
+Sie kramt in ihrer Tasche.
+ 
+6
+10:01:37:14 10:01:56:07
+Henrike Matani parkt ihr kleines blaues Cabriolet im Hafen. Sie ist Ende 30, hat schulterlanges Haar und trägt enge Jeans, Schuhe mit Absatz und eine Lederjacke. Justus Wiedemann, um die 40 mit lässigem Haarschnitt, kommt ihr entgegen. Er trägt Jeans, Turnschuhe, ein Hemd und eine Freizeitjacke. Er führt Henrike zu einer Jacht namens "Sea Explorer".
+
+Aussprache "Sea Explorer": Englisch (siehe TC 10:04:37:03)
+ 
+7
+10:01:58:05 10:02:06:02
+Auf der Ostsee. Weiße Gischt spritzt vor dem Bug der Jacht auf. Henrike und Wiedemann stehen auf dem Oberdeck.
+ 
+8
+10:02:32:16 10:02:34:08
+Sie mustert ihn unschlüssig.
+ 
+9
+10:02:56:07 10:02:57:15
+Sie schaut interessiert.
+ 
+10
+10:03:06:07 10:03:09:02
+Er holt eine große rote Tasche hervor.
+ 
+11
+10:03:11:05 10:03:16:05
+Vorsichtig hebt er einen länglichen, schwarzen Holzkasten mit gewölbtem Deckel aus der Tasche.
+ 
+12
+10:03:21:14 10:03:23:09
+Sie blickt gebannt auf den Kasten.
+ 
+13
+10:03:30:02 10:03:32:03
+Er holt eine Flasche Sekt hervor.
+ 
+14
+10:03:43:22 10:03:54:18
+Lächelnd streichelt Wiedemann die Kiste. Henrike geht über einen Niedergang auf das Unterdeck und in die Kajüte. Sie stellt zwei Sektgläser bereit. Aus ihrer Handtasche holt sie ein Diktiergerät und schaltet es ein.
+ 
+15
+10:03:58:13 10:04:04:20
+Die Milchglastür zur Kajüte wird zugeschoben und abgeschlossen. Eine schemenhafte Gestalt entfernt sich. Henrike versucht vergeblich, die Tür zu öffnen.
+ 
+16
+10:04:16:05 10:04:19:16
+Mit Schrecken im Gesicht verfolgt Henrike das Geschehen durch die Milchglastür.
+ 
+17
+10:04:31:23 10:04:34:04
+Sie greift zum Hörer des Funkgeräts der Jacht.
+ 
+18
+10:04:46:09 10:04:53:10
+Sie legt den Hörer wieder weg. Ein weißes Motorschlauchboot entfernt sich rasch von der Jacht. Henrike hämmert von innen gegen die Glastür.
+ 
+19
+10:05:00:13 10:05:04:12
+Wiedemann liegt reglos mit einer Wunde am Kopf neben der kaputten Sektflasche an Deck.
+ 
+20
+10:05:12:15 10:05:53:07
+Die Küstenwache. 
+Hauptkommissar Holger Ehlers, Kapitän. Ende 50, kurzes graues Haar, zerfurchtes Gesicht.
+Polizeioberkommissarin Saskia Berg, Wachhabende. Mitte 40, kurzes dunkles Haar.
+Polizeiobermeister Ben Asmus, Kommunikationstechniker. Ende 20, durchtrainiert, dunkelblonde Locken.
+Kommissarin Pia Cornelius, Bootsfrau. Mitte 20, schlank, große leuchtende Augen, blonder Pferdeschwanz.
+Polizeirat Hermann Gruber, Einsatzleiter. Ende 50, kurzes graumeliertes Haar, freundliche braune Augen.
+Polizeioberkommissar Marten Feddersen, leitender Maschinist. Mitte 30, kurzes blondes Haar, sehr schlank.
+Polizeiobermeister Kai Norge, Koch und Sanitäter. Ende 20, dunkles Haar, große Augen.
+Heute: Das Vermächtnis des Kopernikus.
+ 
+21
+10:05:55:18 10:06:00:03
+Ehlers und ein Sanitäter springen vom Kontrollboot der Küstenwache an Bord der Jacht.
+ 
+22
+10:06:04:07 10:06:07:11
+Ehlers öffnet die Kajütentür und schließt Henrike in die Arme.
+ 
+23
+10:06:18:17 10:06:21:05
+Henrike eilt aufs Oberdeck. Ehlers zum Sanitäter:
+ 
+24
+10:06:22:15 10:06:24:15
+Der Sanitäter zuckt mit den Schultern.
+ 
+25
+10:06:40:06 10:06:43:14
+Wiedemann hält einen Splitter des Kastens umklammert. Ehlers hebt ihn auf.
+ 
+26
+10:06:45:09 10:06:50:04
+Ehlers dreht das Stück Holz in seiner Hand. Henrike sieht ihn mit großen Augen an.
+ 
+27
+10:06:51:24 10:06:54:14
+In einem Krankenhaus. Ehlers steht an Wiedemanns Bett.
+ 
+28
+10:06:56:18 10:07:01:20
+Wiedemann liegt mit Kopfverband im Bett. Seine Augen sind geschlossen. Ehlers macht ein ernstes Gesicht.
+ 
+29
+10:07:20:20 10:07:25:23
+Im Gemeinschaftsbüro. Das Team der Küstenwache ist eifrig beschäftigt. Ehlers kommt herein.
+ 
+30
+10:07:38:08 10:07:38:22
+Pia:
+ 
+31
+10:08:03:12 10:08:04:22
+Kai reicht Ehlers ein Dokument.
+ 
+32
+10:08:07:18 10:08:08:12
+Gruber:
+ 
+33
+10:08:26:22 10:08:28:16
+Ehlers schüttelt den Kopf.
+ 
+34
+10:09:27:21 10:09:30:05
+Henrike telefoniert in ihrem Garten.
+ 
+35
+10:09:36:10 10:09:37:18
+Vor ihr steht ein Laptop.
+ 
+36
+10:09:49:22 10:09:51:09
+Sie schaut verdutzt auf ihr Handy.
+ 
+37
+10:09:54:23 10:09:56:24
+Sie legt das Handy beiseite.
+ 
+38
+10:09:58:08 10:10:01:02
+Saskia und Tristan Zander im Vernehmungsraum.
+ 
+39
+10:10:18:24 10:10:20:19
+Saskia läuft um ihn herum.
+ 
+40
+10:10:30:04 10:10:33:05
+Zander sitzt am Tisch und stützt selbstbewusst die Arme auf.
+ 
+41
+10:10:41:18 10:10:43:06
+Er runzelt die Stirn.
+ 
+42
+10:10:44:12 10:10:45:20
+Er schaut zur Seite.
+ 
+43
+10:11:05:14 10:11:06:19
+Er schaut verwundert.
+ 
+44
+10:11:16:16 10:11:18:05
+Saskia merkt auf.
+ 
+45
+10:11:19:18 10:11:24:07
+Henrike in ihrem Garten. Sie holt ihr Diktiergerät aus ihrer Handtasche und spielt es ab.
+ 
+46
+10:11:36:12 10:11:38:01
+Im Gemeinschaftsbüro.
+ 
+47
+10:11:42:08 10:11:47:11
+Ehlers und Gruber kommen durch verschiedene Türen ins Büro. Das Küstenwachenteam gibt sich geschäftig.
+ 
+48
+10:11:51:13 10:11:57:10
+Mit versteinerter Mine geht Ehlers in Richtung Gruber. Bei Saskia bleibt er kurz stehen und zögert. Saskia schaut ihm nach.
+ 
+49
+10:11:59:14 10:12:04:13
+Die Tür schließt sich hinter Gruber und Ehlers. Das Team läuft eilig wieder zusammen. 
+# In Grubers Büro.
+ 
+50
+10:12:27:16 10:12:28:18
+Ehlers stutzt.
+ 
+51
+10:12:41:24 10:12:47:09
+Ehlers verdreht die Augen und schaut zur Seite. Gruber reicht ihm ein paar bedruckte Seiten Papier.
+ 
+52
+10:12:48:14 10:12:51:05
+Ehlers schaut zögernd abwechselnd zu Gruber und zum Papier.
+ 
+53
+10:12:54:02 10:12:56:10
+Mit missmutigem Gesicht nimmt Ehlers die Seiten.
+ 
+54
+10:13:03:17 10:13:11:08
+Mit leicht angestrengtem Gesicht kommt Ehlers aus Grubers Büro und mustert sein Team. Pia, Kai, Marten, Saskia und Ben schauen ihn mit großen Augen an.
+ 
+55
+10:13:23:20 10:13:25:23
+Ehlers setzt sich an seinen Schreibtisch.
+ 
+56
+10:13:48:05 10:13:49:16
+Kai deutet auf ein Foto.
+ 
+57
+10:14:09:18 10:14:11:05
+Marten tut, als nicke er ein.
+ 
+58
+10:14:35:13 10:14:47:03
+Ehlers sieht das Foto an. Die Gräfin, etwa 60, trägt roten Lippenstift und steht elegant gekleidet vor einem Leuchtturm.
+# Ehlers und Saskia fahren auf ein Haus zu, neben dem der Leuchtturm steht. Henrike kommt ihnen mit ihrem Auto entgegen.
+ 
+59
+10:14:54:21 10:15:14:21
+Ehlers sieht Henrike mit verblüfftem Gesichtsausdruck nach. Saskia parkt den Wagen auf einem großen Parkplatz vor einem schwarzen Oldtimer.
+# Sie steigen aus, bleiben kurz stehen und schauen am Leuchtturm hoch.
+# Ehlers und Saskia betreten den Leuchtturm. Der Boden und die Wände sind gekachelt, in der Mitte steht eine große graue Maschine, eine Wendeltreppe führt nach oben. Sie bleiben vor der Treppe stehen.
+ 
+60
+10:15:16:13 10:15:18:03
+Saskia blickt sich um.
+ 
+61
+10:15:25:05 10:15:26:05
+Die Gräfin:
+ 
+62
+10:15:33:22 10:15:35:15
+Er senkt den Kopf. Sie zeigt zur Treppe.
+ 
+63
+10:16:10:09 10:16:12:11
+Die Gräfin schaut ihn überrascht an.
+ 
+64
+10:16:32:11 10:16:33:13
+Sie geht zum Telefon.
+ 
+65
+10:16:36:12 10:16:38:15
+Die Gräfin sieht ihn fragend an.
+ 
+66
+10:16:41:20 10:16:42:24
+Sie legt den Hörer auf.
+ 
+67
+10:17:10:14 10:17:12:03
+Ehlers gibt ihr eine Visitenkarte.
+ 
+68
+10:17:20:03 10:17:38:04
+Ehlers und Saskia verlassen den Leuchtturm. Die Gräfin geht zu dem alten Telefon und betätigt die Wählscheibe.
+# In der Zentrale. Kai steht neben Pia und hält Pias Dienstausweis hoch. Ben steht mit Marten am anderen Ende des Gemeinschaftsbüros und schaut durch ein selbstgebautes Fernrohr. Das Fernrohr schwenkt vom Dienstausweis auf Pias Gesicht und Oberkörper.
+ 
+69
+10:17:40:06 10:17:42:20
+Pia sieht Ben kopfschüttelnd an.
+ 
+70
+10:17:53:00 10:17:54:17
+Marten schaut auf Pias Ausschnitt.
+ 
+71
+10:18:29:00 10:18:30:11
+Eine Linse fällt herunter.
+
+"Oh" übersprechen
+ 
+72
+10:18:32:17 10:18:37:06
+Vor dem Eingang der Küstenwache spricht Professor Wiedemann mit einer Beamtin. Henrike hält vor dem Gebäude.
+ 
+73
+10:19:03:08 10:19:07:15
+Er hebt grüßend die Hand.
+# Im Gemeinschaftsbüro. Henrike tritt durch die Tür.
+ 
+74
+10:19:09:01 10:19:11:16
+Sie sieht sich im vollen Büro um. Ehlers blickt auf.
+ 
+75
+10:19:19:17 10:19:20:23
+Sie gibt ihm das Diktiergerät.
+ 
+76
+10:19:33:12 10:19:34:13
+Ehlers zu Ben:
+ 
+77
+10:19:38:09 10:19:40:14
+Ben nimmt das Gerät und geht zu seinem Laptop.
+ 
+78
+10:19:48:18 10:20:00:08
+Ehlers geht hinter Henrike durch die Tür auf den Flur. Die Kollegen schauen ihnen nach. Als sich die Tür hinter den beiden schließt, versammeln sich Pia, Ben, Marten, Saskia, Kai und fünf weitere Beamte in der Mitte des Büros.
+ 
+79
+10:20:08:01 10:20:26:01
+Tristan Zander geht über den Parkplatz vor dem Leuchtturm auf den Oldtimer zu und lässt die Hand darüber gleiten. Er sieht auf die Uhr, bleibt neben dem Wagen stehen und wartet.
+# Gräfin von Rötzow im Kostüm mit einem Schal um den Hals steht auf einer Plattform oben am Leuchtturm und blickt hinunter. Sie geht durch eine Tür ins Innere.
+ 
+80
+10:20:28:08 10:20:35:18
+Ehlers und Henrike gehen in einem Meter Abstand nebeneinander einen mit Gras bewachsenen Deich entlang, auf dem Schafe weiden.
+ 
+81
+10:20:42:09 10:20:44:22
+Ehlers hat die Hände in den Hosentaschen und schaut zur Seite.
+ 
+82
+10:21:02:24 10:21:05:08
+Sie stellt sich vor ihn und berührt ihn am Arm.
+ 
+83
+10:21:08:14 10:21:11:23
+Er blickt grimmig zur Seite, dann sieht er ihr in die Augen.
+ 
+84
+10:21:31:18 10:21:32:24
+Er geht kopfschüttelnd los.
+ 
+85
+10:21:34:12 10:21:36:00
+Sie hält ihn an der Schulter.
+ 
+86
+10:21:38:18 10:21:40:01
+Ehlers schaut sie ernst an.
+ 
+87
+10:21:51:07 10:22:01:00
+Sie geht wütend los und bleibt nach wenigen Schritten mit verschränkten Armen stehen. Langsam dreht sie sich zu Ehlers um, der abgewandt dasteht und aufs Meer blickt. Sie schaut ihn wehmütig an.
+ 
+88
+10:22:04:17 10:22:17:08
+Sie wendet sich ab und sieht traurig ins Leere. Ehlers schaut zu ihr herüber. Er geht langsam auf sie zu und legt den Arm um ihre Schulter. Sie gehen Arm in Arm weiter den Deich entlang.
+ 
+89
+10:22:20:09 10:22:26:23
+Zander steht auf dem Parkplatz am Leuchtturm. Gräfin von Rötzow kommt auf ihn zu und gibt ihm einen braunen Din-A-fünf-Umschlag.
+ 
+90
+10:22:28:17 10:22:32:13
+Er nimmt ein Bündel Geldscheine aus dem Umschlag und zählt sie.
+ 
+91
+10:22:38:02 10:22:41:11
+Er steckt das Bündel ein.
+# In Ehlers' Haus. Ehlers deckt den Frühstückstisch.
+ 
+92
+10:22:44:19 10:22:45:22
+Sie steht im Bad.
+ 
+93
+10:22:51:02 10:22:52:07
+Er hebt Henrikes Jacke hoch.
+ 
+94
+10:22:59:14 10:23:04:10
+Henrike kommt hinzu und sieht Ehlers, der den länglichen, schwarzen Holzkasten in der Hand hält.
+ 
+95
+10:23:05:13 10:23:06:20
+Der Kasten ist leer.
+ 
+96
+10:23:08:06 10:23:10:01
+Er lässt den Deckel zufallen.
+ 
+97
+10:23:16:00 10:23:18:01
+Sie schaut verwirrt.
+ 
+98
+10:23:21:04 10:23:23:05
+Sie sieht ihn verblüfft an.
+ 
+99
+10:23:28:16 10:23:31:00
+Ehlers wirft ein Geschirrtuch hin.
+ 
+100
+10:23:37:07 10:23:38:12
+Ehlers am Handy:
+ 
+101
+10:23:43:18 10:23:45:12
+Im Gemeinschaftsbüro.
+ 
+102
+10:23:47:00 10:23:49:23
+Kai heftet den abgebrochenen Splitter an den Kasten.
+ 
+103
+10:24:33:17 10:24:34:23
+Ehlers hebt ab.
+ 
+104
+10:24:35:24 10:24:37:18
+Saskia läuft durch Ehlers' Garten.
+ 
+105
+10:24:43:15 10:24:45:23
+Saskia dreht sich zu Henrike um.
+ 
+106
+10:24:49:09 10:24:51:17
+Henrike nickt.
+# In Grubers Büro.
+ 
+107
+10:25:06:20 10:25:09:00
+Ehlers schaut ihn finster an.
+ 
+108
+10:25:25:03 10:25:28:07
+In Ehlers' Garten. Henrike und Saskia sitzen an einem Tisch.
+ 
+109
+10:25:37:22 10:25:39:07
+Saskia steht auf.
+ 
+110
+10:25:45:02 10:25:55:10
+Saskia läuft durch den Garten, duckt sich unter einem Ast hindurch und winkt Henrike im Gehen zu. 
+# Henrike dreht sich um und holt ihr Handy heraus. Sie wählt eine Nummer.
+ 
+111
+10:26:02:15 10:26:04:08
+Im Gemeinschaftsbüro.
+ 
+112
+10:26:10:07 10:26:13:14
+Pia sieht Ehlers zögernd an, der nachdenklich vor der Seekarte steht.
+ 
+113
+10:26:36:14 10:26:38:02
+Er lächelt Pia an.
+ 
+114
+10:26:46:14 10:26:47:24
+Kai schlägt ein Buch auf.
+ 
+115
+10:26:52:18 10:26:55:01
+Die Gräfin, Saskia und Ehlers stehen auf dem Leuchtturm.
+ 
+116
+10:27:17:09 10:27:20:10
+Sie geht durch eine Tür, hinter der das Leuchtfeuer steht.
+ 
+117
+10:27:52:21 10:27:54:22
+Im Gemeinschaftsbüro.
+ 
+118
+10:28:30:16 10:28:31:13
+Im Vernehmungsraum.
+ 
+119
+10:28:51:07 10:28:53:20
+Zander sitzt am Tisch. Saskia und Ehlers stehen vor ihm.
+ 
+120
+10:29:03:11 10:29:08:19
+Ehlers öffnet die Tür zum Technikraum und drückt eine Taste an einem Telefon an der Wand.
+ 
+121
+10:29:14:11 10:29:15:24
+Im Gemeinschaftsbüro.
+ 
+122
+10:29:44:17 10:29:46:01
+In Ehlers' Haus.
+ 
+123
+10:29:54:12 10:29:57:07
+Ein Metallgegenstand wird gegen Henrikes Kopf geschlagen. Sie fällt.
+ 
+124
+10:30:00:18 10:30:05:04
+Ehlers und Saskia verlassen das Büro. Ein silberner Wagen fährt mit Blaulicht durch eine Straße.
+ 
+125
+10:30:07:02 10:30:12:07
+Ehlers, Saskia und ein weiterer Beamter steigen aus und laufen mit gezückten Waffen durch den Garten.
+ 
+126
+10:30:17:03 10:30:32:05
+Ehlers zeigt auf eine Seite. Der Beamte in der Richtung am Haus entlang. Ehlers und Saskia laufen geduckt zur offenen Haustür. Sie gehen hinein. Im Haus liegen umgeworfene Möbel. Schränke sind geöffnet und Papiere liegen auf dem Boden verteilt. 
+# Ehlers läuft durch das Esszimmer zu Henrike.
+ 
+127
+10:30:41:04 10:30:43:18
+Henrike setzt sich auf. Saskia geht zum Fenster.
+ 
+128
+10:30:53:20 10:31:04:01
+Ehlers verlässt das Haus.
+# Auf dem Parkplatz am Leuchtturm geht die Gräfin auf den Oldtimer zu. Der silberne Wagen der Küstenwache bleibt neben dem Oltimer stehen. Ehlers steigt aus.
+ 
+129
+10:31:23:24 10:31:26:11
+Er deutet mit dem Kinn zu dem anderen Beamten.
+ 
+130
+10:31:28:20 10:31:30:22
+Der Beamte geht zurück zum Wagen.
+ 
+131
+10:31:45:02 10:31:46:09
+Im Gemeinschaftsbüro.
+ 
+132
+10:32:20:04 10:32:25:23
+Ehlers geht zu einem Tisch. Er stützt sich mit den Ellenbogen ab und legt nachdenklich seinen Kopf in eine Handfläche.
+ 
+133
+10:32:30:05 10:32:31:16
+Kai kommt herein.
+ 
+134
+10:33:13:03 10:33:14:19
+Saskia steht in Ehlers Badezimmer.
+ 
+135
+10:33:16:24 10:33:20:13
+Im Büro tippt Ehlers eine Nummer in sein Handy. Die Kollegen schauen ihn an.
+ 
+136
+10:33:29:02 10:33:30:21
+Er dreht sich zu den Kollegen um.
+ 
+137
+10:34:22:18 10:34:25:23
+Henrike rennt am Hafen auf Wiedemann zu.
+ 
+138
+10:34:30:17 10:34:35:23
+Er schüttelt ihre Hand. Sie gehen an Bord seiner Jacht.
+# Im Gemeinschaftsbüro legt Ben den Telefonhörer auf.
+ 
+139
+10:34:42:14 10:34:45:24
+Ehlers schaut besorgt.
+# Auf Wiedemanns Jacht.
+ 
+140
+10:34:59:20 10:35:04:01
+Sie sieht auf ihr Handy und steckt es wieder ein.
+# Im Gemeinschaftsbüro.
+ 
+141
+10:35:15:20 10:35:24:24
+Die Albatros II, das Schiff der Küstenwache, gleitet über die Ostsee. Weißte Gischt spritzt vor dem Bug auf.
+# Auf Wiedemanns Jacht.
+ 
+142
+10:35:35:11 10:35:37:12
+Henrike schaut nachdenklich.
+ 
+143
+10:35:54:11 10:35:55:19
+Er sieht sie ernst an.
+ 
+144
+10:36:02:20 10:36:05:18
+Er geht zum Mastbaum und blickt aufs Meer hinaus.
+ 
+145
+10:36:13:21 10:36:15:23
+Sie tritt hinter ihn.
+ 
+146
+10:36:21:03 10:36:22:04
+Er lächelt sie an.
+ 
+147
+10:36:49:21 10:36:51:01
+Er streicht über ihren Schal.
+ 
+148
+10:36:56:19 10:37:06:21
+Sie geht zum Mastbaum, holt ihr Handy hervor, tippt eine Nummer und hält es ans Ohr. Wiedemann tritt von hinten an sie heran, entreißt ihr das Handy und wirft es ins Wasser.
+# Er packt sie am Kragen ihrer Strickjacke.
+ 
+149
+10:37:12:12 10:37:17:18
+Auf der Brücke der Albatros II schauen Ehlers und Saskia durch Ferngläser aufs Meer.
+ 
+150
+10:37:21:12 10:37:27:02
+Durch das Fernglas beobachtet Ehlers, wie Wiedemann vom Heck zum Führerstand seiner Jacht hinaufsteigt und Gas gibt.
+ 
+151
+10:37:30:17 10:37:38:22
+Saskia bleibt auf der Brücke zurück.
+# Die Jacht düst über die Ostsee, dicht gefolgt vom Kontrollboot der Küstenwache. Henrike sitzt gefesselt am Heck der Jacht.
+ 
+152
+10:37:41:24 10:37:47:24
+Marten und Ehlers stehen am Bug des Kontrollboots. Ehlers wendet sich an zwei Beamte am Steuer.
+ 
+153
+10:37:50:02 10:37:52:16
+Wiedemann schaut sich nach dem Kontrollboot um.
+ 
+154
+10:37:54:04 10:37:56:13
+Henrike sitzt an Händen und Füßen gefesselt am Boden.
+ 
+155
+10:38:01:03 10:38:03:05
+Wiedemann klettert zu ihr herunter.
+ 
+156
+10:38:05:08 10:38:09:01
+Er zerrt sie zur Kajüte.
+# Ehlers schießt in die Luft.
+ 
+157
+10:38:18:00 10:38:19:24
+Wiedemann schubst Henrike ins Wasser.
+ 
+158
+10:38:23:17 10:38:28:02
+Wiedemann klettert auf den Führerstand.
+# Ehlers legt seine Schwimmweste ab und springt ins Wasser.
+ 
+159
+10:38:32:15 10:38:34:06
+Das Kontrollboot folgt der Jacht.
+ 
+160
+10:38:36:22 10:38:49:00
+Es fährt mit hohem Tempo seitlich neben die Jacht. Marten klettert an Bord. Das Kontrollboot fällt wieder zurück. Wiedemann steht am Ruder und blickt über die Schulter.
+# Marten steigt hinter ihm den Niedergang hinauf.
+ 
+161
+10:38:51:12 10:39:02:21
+Marten packt ihn, dreht ihm die Arme auf den Rücken und hält ihn fest. 
+# In Zeitlupe: Marten sieht zu Ehlers, der mit Henrike im Wasser schwimmt und ihren Kopf über Wasser hält. Die Zeitlupe endet.
+ 
+162
+10:39:07:09 10:39:09:24
+Marten zieht Wiedemann den Niedergang hinunter.
+ 
+163
+10:39:19:01 10:39:25:04
+Auf dem Kontrollboot liegt Henrike am Boden. Sie hustet Wasser aus. Ehlers legt eine Hand an ihren Hinterkopf und lächelt sie liebevoll an.
+ 
+164
+10:39:51:22 10:39:58:04
+Sie nickt. Ehlers küsst sie.
+# Die Albatros II liegt im Hafen. Davor wird ein Tisch mit Sektgläsern aufgebaut.
+ 
+165
+10:40:03:19 10:40:05:08
+Gruber zu Pia und Marten:
+ 
+166
+10:40:36:00 10:40:44:21
+Ehlers kommt in einer schwarzen Ausgehuniform neben einer blonden Frau in einem schwarz-grauen Kostüm die Mole entlang. Gruber geht auf die Frau zu und reicht ihr die Hand.
+ 
+167
+10:40:47:02 10:40:52:13
+Die Kollegen, ebenfalls in Ausgehuniform, stellen sich mit Henrike, die ein rosafarbenes Kleid trägt, neben dem Rednerpult auf.
+ 
+168
+10:40:54:18 10:40:56:23
+Gruber tritt ans Rednerpult.
+ 
+169
+10:41:22:23 10:41:26:24
+Ehlers tritt ans Rednerpult, setzt seine Mütze ab und lächelt verlegen.
+ 
+170
+10:41:49:18 10:41:50:24
+Ehlers geht zu Henrike.
+ 
+171
+10:41:57:11 10:41:59:01
+Das Team stellt sich vor Ehlers auf.
+ 
+172
+10:42:07:00 10:42:08:02
+Er nimmt eine Ukulele.
+ 
+173
+10:42:39:03 10:42:40:11
+Ehlers küsst Henrike.
+ 
+174
+10:42:44:10 10:42:47:12
+Saskia und Pia führen Ehlers in die Mitte der versammelten Mannschaft.
+ 
+175
+10:42:49:05 10:43:20:08
+Das war: Die Küstenwache, Das Vermächtnis des Kopernikus.
+Mit Rüdiger Joswig als Ehlers,
+Sabine Petzl als Saskia,
+Max Florian Hoppe als Ben,
+Lara-Isabelle Rentinck als Pia,
+Michael Kind als Gruber,
+Andreas Dobberkau als Marten,
+Andreas Arnstedt als Kai
+und anderen.
+Buch: Ursula Kohlert
+Regie: Dagmar von Chappuis
+Eine Produktion der Opal Filmproduktion im Auftrag des ZDF 2011
+Audiodeskription: Titelbild GmbH
+Filmbeschreibung: Gottbehüt und Hinderer
+Redaktion:Christel Jung
+Ton und Regie: Krane und Rabe GmbH
+Sprecher/in: tbc
+
+Aussprache "Chappuis": Schappüi
+ 
