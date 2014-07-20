@@ -2,7 +2,6 @@
 root = File.expand_path('../', __FILE__)
 require 'fileutils'
 require "#{root}/config/enviroment"
-require "#{root}/to_dfxp"
 
 
 
@@ -29,15 +28,6 @@ class Watch
       #puts text.force_encoding("UTF-8")
       File.open("#{SOURCE_PATH}/#{file_name}_2URL.txt", 'w'){|file| file.write(text)}
       FileUtils.mv("#{SOURCE_PATH}/#{file_name}.txt", "#{PROCESSED_PATH}/#{file_name}.txt")
-      
-      # if blocks
-      #   File.open("#{SOURCE_PATH}/#{file_name}_2URL.txt", 'w') do |file| 
-      #     blocks.each do |block|
-      #       file.write("#{block[0]} - #{block[2].slice(0, 15)}...\t#{block[1]}\n")
-      #     end
-      #   end
-      #   FileUtils.mv("#{SOURCE_PATH}/#{file_name}.txt", "#{PROCESSED_PATH}/#{file_name}.txt")
-      # end
     
     rescue => err
       puts "Exception: #{err}"
