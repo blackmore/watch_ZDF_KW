@@ -6,6 +6,7 @@ ROOT = File.expand_path('../../', __FILE__)
 
 SOURCE_PATH = "#{ROOT}/test_folders/"
 PROCESSED_PATH = "#{ROOT}/test_folders/processed"
+TARGET_PATH = "#{ROOT}/test_folders/target_ezt_watch"
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # TEST PATHS

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- file created by nigel.blackmore@titelbild.de -->
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:tts="http://www.w3.org/2006/10/ttaf1#styling">
+  <head>
+    <styling>
+      <style xml:id="default.left" tts:fontFamily="Arial" tts:fontSize="10px" tts:textAlign="left" tts:fontStyle="normal" tts:fontWeight="normal" tts:backgroundColor="transparent" tts:color="#FFFFFF"/>
+      <style xml:id="default.center" style="default.left" tts:textAlign="center"/>
+      <style xml:id="default.right" style="default.left" tts:textAlign="right"/>
+    </styling>
+  </head>
+  <body>
+    <div>
+      <p begin="36000.00s" end="36004.13" dur="4.13s" style="default.center" tts:direction="ltr">Ich bin jetzt da. Es ist tatsächlich ein menschlicher Schädel.</p>
+      <p begin="36004.29s" end="36006.49" dur="2.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Können Sie das Alter einschätzen?</span>
+      </p>
+      <p begin="36006.65s" end="36008.15" dur="1.50s" style="default.center" tts:direction="ltr">'Ne Kunststoffüllung.</p>
+      <p begin="36008.31s" end="36010.38" dur="2.07s" style="default.center" tts:direction="ltr">Also, historisch ist der nich'.</p>
+      <p begin="36010.54s" end="36012.07" dur="1.53s" style="default.center" tts:direction="ltr">--- Loch im Hinterkopf.</p>
+      <p begin="36012.23s" end="36014.97" dur="2.73s" style="default.center" tts:direction="ltr">Sieht nach massiver Gewalteinwirkung aus.</p>
+      <p begin="36015.13s" end="36019.19" dur="4.07s" style="default.center" tts:direction="ltr">Sag mal, Norge, wieso willst Du eigentlich'n Piraten spielen?</p>
+      <p begin="36019.35s" end="36022.22" dur="2.87s" style="default.center" tts:direction="ltr">Du würdest doch einen prima Hamlet abgeben.</p>
+      <p begin="36022.38s" end="36023.88" dur="1.50s" style="default.center" tts:direction="ltr">Neidisch?</p>
+      <p begin="36024.04s" end="36030.57" dur="6.53s" style="default.center" tts:direction="ltr">Wenn ich erst neben Klaus Störtebeker auf der Bühne stehe, werden wir ja sehen, wer zuletzt lacht.</p>
+      <p begin="36030.73s" end="36032.23" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ach, der KTU-Bericht.</span>
+      </p>
+      <p begin="36032.39s" end="36033.89" dur="1.50s" style="default.center" tts:direction="ltr">Äh, nein, das – äh.</p>
+      <p begin="36034.05s" end="36038.65" dur="4.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Wenn Du ein Mann bist, dann ziehe Dein Schwert und. Was ist das denn?</span>
+      </p>
+      <p begin="36038.81s" end="36040.31" dur="1.50s" style="default.center" tts:direction="ltr">Ich hab ein Casting.</p>
+      <p begin="36040.47s" end="36045.34" dur="4.87s" style="default.center" tts:direction="ltr">Kai hat sich als Laiendarsteller für die Störtebeker-Festspiele beworben.</p>
+      <p begin="36045.50s" end="36049.70" dur="4.20s" style="default.center" tts:direction="ltr">Na ja, nich' für die Hauptrolle, aber ein sehr wichtiger Pirat.</p>
+      <p begin="36049.86s" end="36051.79" dur="1.93s" style="default.center" tts:direction="ltr">Ah, hier ist der KTU-Bericht.</p>
+      <p begin="36051.95s" end="36058.95" dur="7.00s" style="default.center" tts:direction="ltr">Die Kollegen meinen, nach Größe und Form des gefundenen Totenschädels zu urteilen, gehört er zu einer jungen Frau zwischen 18 und 20 Jahren.</p>
+      <p begin="36059.11s" end="36062.05" dur="2.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Wie lange lag der Schädel auf'm Meeresgrund?</span>
+      </p>
+      <p begin="36062.21s" end="36063.71" dur="1.50s" style="default.center" tts:direction="ltr">Ungefähr fünf Jahre.</p>
+      <p begin="36063.87s" end="36067.47" dur="3.60s" style="default.center" tts:direction="ltr">Todesursache war wahrscheinlich ein Schädelbasisbruch.</p>
+      <p begin="36067.63s" end="36070.83" dur="3.20s" style="default.center" tts:direction="ltr">Wenn der Tod nich' schon früher eingetreten is'.</p>
+      <p begin="36070.99s" end="36075.12" dur="4.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Also, so wie's aussieht kann ein Unfall ausgeschlossen werden.</span>
+      </p>
+      <p begin="36075.28s" end="36082.21" dur="6.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Unsere Taucher haben auf dem Meeresgrund einen Unterschenkelknochen gefunden, der an einem Gewicht hing.</span>
+      </p>
+      <p begin="36082.37s" end="36083.87" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Gut.</span>
+      </p>
+      <p begin="36084.03s" end="36089.63" dur="5.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Überprüfen Sie, ob der Knochen und der Schädel von ein und derselben Person stammen.</span>
+      </p>
+      <p begin="36089.79s" end="36095.26" dur="5.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Asmus, ich möchte, daß Sie alle Vermißtenmeldungen von vor fünf Jahren durchgehen.</span>
+      </p>
+      <p begin="36095.42s" end="36096.92" dur="1.50s" style="default.center" tts:direction="ltr">Viel Spaß.</p>
+      <p begin="36097.08s" end="36098.58" dur="1.50s" style="default.center" tts:direction="ltr">Danke.</p>
+      <p begin="36098.74s" end="36100.61" dur="1.87s" style="default.center" tts:direction="ltr">Herr Gruber, Besuch für Sie.</p>
+      <p begin="36100.77s" end="36103.23" dur="2.47s" style="default.center" tts:direction="ltr">Schönen guten Tag. Christian Gerlach.</p>
+      <p begin="36103.39s" end="36104.89" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Aha.</span>
+      </p>
+      <p begin="36105.05s" end="36110.32" dur="5.27s" style="default.center" tts:direction="ltr">Ich bin der Besitzer des Fischkutters, auf dem der Totenschädel gefunden wurde.</p>
+      <p begin="36110.48s" end="36111.98" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ah, Gerlach.</span>
+      </p>
+      <p begin="36112.14s" end="36113.64" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Gerlach.</span>
+      </p>
+      <p begin="36113.80s" end="36118.00" dur="4.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Äh, ich kannte Ihren verstorbenen Schwiegervater Fritz Gerlach.</span>
+      </p>
+      <p begin="36118.16s" end="36120.03" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Bitte nehmen Sie doch Platz.</span>
+      </p>
+      <p begin="36120.19s" end="36123.79" dur="3.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Sie sind also inzwischen in seine Fußstapfen getreten.</span>
+      </p>
+      <p begin="36123.95s" end="36128.68" dur="4.73s" style="default.center" tts:direction="ltr">Ja, und ich habe auch den Bürgermeisterposten von Fellhagen übernommen.</p>
+      <p begin="36128.84s" end="36134.71" dur="5.87s" style="default.center" tts:direction="ltr">Meine Parteifreunde haben mich grad dazu überredet, eine zweite Amtszeit zu kandidieren.</p>
+      <p begin="36134.87s" end="36139.80" dur="4.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Geht doch nichts übern gutes Ehrenamt. Ja, . und was kann ich für Sie tun?</span>
+      </p>
+      <p begin="36139.96s" end="36146.96" dur="7.00s" style="default.center" tts:direction="ltr">Nun, da ich ja praktisch in den Fall involviert bin, wollt ich mich kurz nach dem Stand der Dinge erkundigen.</p>
+      <p begin="36147.12s" end="36152.99" dur="5.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Sie wollen doch nich' etwa Ihren Wahlkampf mit unseren Ermittlungsergebnissen schmücken?</span>
+      </p>
+      <p begin="36153.15s" end="36156.35" dur="3.20s" style="default.center" tts:direction="ltr">Nein, nein, um Gottes Willen, wo denken Sie hin?</p>
+      <p begin="36156.51s" end="36161.24" dur="4.73s" style="default.center" tts:direction="ltr">Ich würde nur den Menschen auf der Straße gerne Antworten geben können.</p>
+      <p begin="36161.40s" end="36165.87" dur="4.47s" style="default.center" tts:direction="ltr">Die Leute vertrauen mir, und ich stehe ungern mit leeren Händen da.</p>
+      <p begin="36166.03s" end="36167.69" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Da geht es Ihnen wie mir.</span>
+      </p>
+      <p begin="36167.85s" end="36171.32" dur="3.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Leider sind wir erst am Anfang unserer Ermittlungen.</span>
+      </p>
+      <p begin="36171.48s" end="36177.48" dur="6.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ganz davon abgesehen, daß ich Ihnen auch gar keine Ermittlungsergebnisse weitergeben darf.</span>
+      </p>
+      <p begin="36177.64s" end="36180.91" dur="3.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Tja, das tut mir leid, aber ich habe noch zu tun.</span>
+      </p>
+      <p begin="36181.07s" end="36185.73" dur="4.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Und lassen Sie sich das nächste Mal doch bitte einen Termin geben, ja?</span>
+      </p>
+      <p begin="36185.89s" end="36192.89" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Äh, falls es Ihnen nützt, können Sie Ihren Wählern sagen, daß Sie mit mir gesprochen haben und daß wir uns der Sache annehmen.</span>
+      </p>
+      <p begin="36193.05s" end="36194.55" dur="1.50s" style="default.center" tts:direction="ltr">Das werd ich.</p>
+      <p begin="36194.71s" end="36196.21" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Herr Gerlach.</span>
+      </p>
+      <p begin="36196.37s" end="36197.87" dur="1.50s" style="default.center" tts:direction="ltr">Herr Gruber.</p>
+      <p begin="36198.03s" end="36199.53" dur="1.50s" style="default.center" tts:direction="ltr">Hallo.</p>
+      <p begin="36199.69s" end="36201.19" dur="1.50s" style="default.center" tts:direction="ltr">Moin.</p>
+      <p begin="36201.35s" end="36202.85" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Moin.</span>
+      </p>
+      <p begin="36203.01s" end="36205.08" dur="2.07s" style="default.center" tts:direction="ltr">Und viel Erfolg weiterhin noch.</p>
+      <p begin="36205.24s" end="36207.44" dur="2.20s" style="default.center" tts:direction="ltr">Kapitän, ich hab da was gefunden.</p>
+      <p begin="36207.60s" end="36214.60" dur="7.00s" style="default.center" tts:direction="ltr">Ich bin die kompletten Vermißtenanzeigen der letzen fünf Jahre durchgegangen, aber ich hab nur eine junge Frau gefunden, die sich in dem von der KTU bestimmten Alter befand.</p>
+      <p begin="36214.76s" end="36216.56" dur="1.80s" style="default.center" tts:direction="ltr">Eine gewisse Sandra Keller.</p>
+      <p begin="36216.72s" end="36218.92" dur="2.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Woher stammt diese Sandra Keller?</span>
+      </p>
+      <p begin="36219.08s" end="36222.48" dur="3.40s" style="default.center" tts:direction="ltr">Aus einem kleinen Dorf hier in der Nähe, Fellhagen.</p>
+      <p begin="36222.64s" end="36225.17" dur="2.53s" style="default.center" tts:direction="ltr">Es gibt allerdings einen großen Haken.</p>
+      <p begin="36225.33s" end="36226.83" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Und der wäre?</span>
+      </p>
+      <p begin="36226.99s" end="36231.39" dur="4.40s" style="default.center" tts:direction="ltr">Die Vermißtenanzeige wurde schon wenige Tage später zurückgezogen.</p>
+      <p begin="36231.55s" end="36234.35" dur="2.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Dann kann sie doch nich' unsere Tote sein.</span>
+      </p>
+      <p begin="36234.51s" end="36236.91" dur="2.40s" style="default.center" tts:direction="ltr">Da wär ich mir eben nich' so sicher.</p>
+      <p begin="36237.07s" end="36241.67" dur="4.60s" style="default.center" tts:direction="ltr">Die Mutter behauptet, daß Sandra zu einer Weltreise aufgebrochen sei.</p>
+      <p begin="36241.83s" end="36243.33" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ich versteh Sie nicht.</span>
+      </p>
+      <p begin="36243.49s" end="36249.36" dur="5.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wollen Sie damit sagen, daß Sandra Keller diese Weltreise vielleicht nie angetreten hat?</span>
+      </p>
+      <p begin="36249.52s" end="36254.79" dur="5.27s" style="default.center" tts:direction="ltr">Also ich weiß nur, daß das der einzige Anhaltspunkt is', den ich finden konnte.</p>
+      <p begin="36254.95s" end="36258.75" dur="3.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Frau Berg, Frau Stern, gehen Sie der Sache auf den Grund.</span>
+      </p>
+      <p begin="36258.91s" end="36261.11" dur="2.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Das ist Ihre Tochter, nicht wahr?</span>
+      </p>
+      <p begin="36261.27s" end="36264.00" dur="2.73s" style="default.center" tts:direction="ltr">Ja. Sie ist zur Zeit auf einer Weltreise.</p>
+      <p begin="36264.16s" end="36267.29" dur="3.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wann haben Sie sie denn zum letzen Mal gesehen?</span>
+      </p>
+      <p begin="36267.45s" end="36268.95" dur="1.50s" style="default.center" tts:direction="ltr">Gesehen?</p>
+      <p begin="36269.11s" end="36271.38" dur="2.27s" style="default.center" tts:direction="ltr">Das is' inzwischen fünf Jahre her.</p>
+      <p begin="36271.54s" end="36273.67" dur="2.13s" style="default.center" tts:direction="ltr">Aber sie meldet sich regelmäßig.</p>
+      <p begin="36273.83s" end="36275.70" dur="1.87s" style="default.center" tts:direction="ltr">Gerade erst vor einer Woche.</p>
+      <p begin="36275.86s" end="36277.53" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Haben Sie da telefoniert?</span>
+      </p>
+      <p begin="36277.69s" end="36279.19" dur="1.50s" style="default.center" tts:direction="ltr">Nein, sie schreibt.</p>
+      <p begin="36279.35s" end="36280.85" dur="1.50s" style="default.center" tts:direction="ltr">Darf ich?</p>
+      <p begin="36281.01s" end="36282.81" dur="1.80s" style="default.center" tts:direction="ltr">Warum fragen Sie das alles?</p>
+      <p begin="36282.97s" end="36286.50" dur="3.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Äh, Frau Keller, es ist vorerst nur eine Vermutung, .</span>
+      </p>
+      <p begin="36286.66s" end="36292.73" dur="6.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">aber wir haben Grund zu der Annahme, daß Ihre Tochter in der Ostsee ums Leben gekommen ist.</span>
+      </p>
+      <p begin="36292.89s" end="36294.69" dur="1.80s" style="default.center" tts:direction="ltr">Wie kommen Sie denn darauf?</p>
+      <p begin="36294.85s" end="36301.85" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Die Tote, die wir gefunden haben, ist ziemlich genau zu dem Zeitpunkt Ihrer Vermißtenanzeige ums Leben gekommen.</span>
+      </p>
+      <p begin="36302.01s" end="36303.51" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Also vor fünf Jahren.</span>
+      </p>
+      <p begin="36303.67s" end="36305.93" dur="2.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und auch das Alter stimmt überein.</span>
+      </p>
+      <p begin="36306.09s" end="36307.89" dur="1.80s" style="default.center" tts:direction="ltr">Das kann nur'n Zufall sein.</p>
+      <p begin="36308.05s" end="36311.59" dur="3.53s" style="default.center" tts:direction="ltr">Wer soll denn sonst die Postkarten beschrieben haben?</p>
+      <p begin="36311.75s" end="36315.41" dur="3.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Also, wie gesagt, es ist ja vorerst nur eine Vermutung.</span>
+      </p>
+      <p begin="36315.57s" end="36322.57" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wenn Sie uns vielleicht die Kontaktdaten vom Zahnarzt Ihrer Tochter zukommen lassen könnten, dann könnte man mit Sicherheit ausschließen.</span>
+      </p>
+      <p begin="36322.73s" end="36324.23" dur="1.50s" style="default.center" tts:direction="ltr">Das ist doch absurd.</p>
+      <p begin="36324.39s" end="36331.39" dur="7.00s" style="default.center" tts:direction="ltr">Ich sehe, wie wichtig Ihnen die Postkarten von Ihrer Tochter sind, aber könnten Sie vielleicht einige davon und ein weiteres Schriftstück von Sandra mitnehmen?</p>
+      <p begin="36331.55s" end="36333.05" dur="1.50s" style="default.center" tts:direction="ltr">Zum Schriftabgleich.</p>
+      <p begin="36333.21s" end="36334.95" dur="1.73s" style="default.center" tts:direction="ltr">Ich kenne Sandras Schrift.</p>
+      <p begin="36335.11s" end="36337.64" dur="2.53s" style="default.center" tts:direction="ltr">Äh, ja, das glauben wir Ihnen ja auch.</p>
+      <p begin="36337.80s" end="36340.47" dur="2.67s" style="default.center" tts:direction="ltr">Äh, wir müssen nur jeder Spur nachgehen.</p>
+      <p begin="36340.63s" end="36343.83" dur="3.20s" style="default.center" tts:direction="ltr">Und sie bekommen sie natürlich auch dann zurück.</p>
+      <p begin="36343.99s" end="36348.05" dur="4.07s" style="default.center" tts:direction="ltr">Wenn Du ein Mann bist, dann zieh Dein Schwert und wehre Dich.</p>
+      <p begin="36348.21s" end="36355.01" dur="6.80s" style="default.center" tts:direction="ltr">So ist es richtig, aber glaub nicht, daß ich Dich schonen werde, wie ich hier niemanden schonen werde.</p>
+      <p begin="36355.17s" end="36357.31" dur="2.13s" style="default.center" tts:direction="ltr">Kapitän, das Deck ist gesichert.</p>
+      <p begin="36357.47s" end="36359.20" dur="1.73s" style="default.center" tts:direction="ltr">Die Mannschaft entwaffnet.</p>
+      <p begin="36359.36s" end="36361.69" dur="2.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ist das die neue Art der Festnahme?</span>
+      </p>
+      <p begin="36361.85s" end="36363.72" dur="1.87s" style="default.center" tts:direction="ltr">Ach, morgen ist das Casting.</p>
+      <p begin="36363.88s" end="36365.38" dur="1.50s" style="default.center" tts:direction="ltr">Ja.</p>
+      <p begin="36365.54s" end="36367.67" dur="2.13s" style="default.center" tts:direction="ltr">Die suchen übrigens noch Frauen.</p>
+      <p begin="36367.83s" end="36370.30" dur="2.47s" style="default.center" tts:direction="ltr">Ich könnte ein Wort für Sie einlegen.</p>
+      <p begin="36370.46s" end="36373.33" dur="2.87s" style="default.center" tts:direction="ltr">Ja, ich kenn die Regisseurin ganz gut, ich.</p>
+      <p begin="36373.49s" end="36375.22" dur="1.73s" style="default.center" tts:direction="ltr">glaub, die steht auf mich.</p>
+      <p begin="36375.38s" end="36380.91" dur="5.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Das is' wirklich sehr lieb von Ihnen, aber schauspielerisch bin ich total unbegabt.</span>
+      </p>
+      <p begin="36381.07s" end="36385.14" dur="4.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Kapitän, das Ergebnis der zahnärztlichen Untersuchung ist da.</span>
+      </p>
+      <p begin="36385.30s" end="36389.37" dur="4.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Es handelt sich tatsächlich um den Schädel von Sandra Keller.</span>
+      </p>
+      <p begin="36389.53s" end="36392.66" dur="3.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Asmus, was macht die Auswertung der Postkarten?</span>
+      </p>
+      <p begin="36392.82s" end="36394.35" dur="1.53s" style="default.center" tts:direction="ltr">Ja das is' unglaublich.</p>
+      <p begin="36394.51s" end="36396.91" dur="2.40s" style="default.center" tts:direction="ltr">Die sind tatsächlich alle gefälscht.</p>
+      <p begin="36397.07s" end="36399.81" dur="2.73s" style="default.center" tts:direction="ltr">Weder Schrift noch Poststempel sind echt.</p>
+      <p begin="36399.97s" end="36403.37" dur="3.40s" style="default.center" tts:direction="ltr">Da hat sich jemand'n ziemlich üblen Scherz erlaubt.</p>
+      <p begin="36403.53s" end="36405.19" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">'N Scherz bestimmt nich'.</span>
+      </p>
+      <p begin="36405.35s" end="36409.35" dur="4.00s" style="default.center" tts:direction="ltr">Sie meinen, Fälscher und Täter sind ein und dieselbe Person?</p>
+      <p begin="36409.51s" end="36411.51" dur="2.00s" style="default.center" tts:direction="ltr">Das wär aber ziemlich perfide.</p>
+      <p begin="36411.67s" end="36417.14" dur="5.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Frau Stern, ich fürchte, das bleibt Ihnen nicht erspart, Frau Keller zu vernehmen.</span>
+      </p>
+      <p begin="36417.30s" end="36418.80" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Alles in Ordnung?</span>
+      </p>
+      <p begin="36418.96s" end="36420.46" dur="1.50s" style="default.center" tts:direction="ltr">Jaja.</p>
+      <p begin="36420.62s" end="36427.35" dur="6.73s" style="default.center" tts:direction="ltr">Ich hatte das Gefühl, daß Frau Keller schon eine Ahnung hatte, aber daß sie's nicht wahrhaben wollte.</p>
+      <p begin="36427.51s" end="36431.91" dur="4.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ich glaube auch, daß sie die Nachricht nur schwer verkraften wird.</span>
+      </p>
+      <p begin="36432.07s" end="36433.57" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Soll ich mitkommen?</span>
+      </p>
+      <p begin="36433.73s" end="36436.27" dur="2.53s" style="default.center" tts:direction="ltr">Nein, nein, danke. Ich mach das schon.</p>
+      <p begin="36436.43s" end="36440.96" dur="4.53s" style="default.center" tts:direction="ltr">In all den Jahren hat Ihre Tochter immer nur Postkarten geschrieben.</p>
+      <p begin="36441.12s" end="36443.25" dur="2.13s" style="default.center" tts:direction="ltr">Finden Sie das nich' merkwürdig?</p>
+      <p begin="36443.41s" end="36444.91" dur="1.50s" style="default.center" tts:direction="ltr">Doch.</p>
+      <p begin="36445.07s" end="36446.57" dur="1.50s" style="default.center" tts:direction="ltr">Schon.</p>
+      <p begin="36446.73s" end="36449.13" dur="2.40s" style="default.center" tts:direction="ltr">Wir hatten damals'n heftigen Streit.</p>
+      <p begin="36449.29s" end="36450.79" dur="1.50s" style="default.center" tts:direction="ltr">Mein Mann hatte Krebs.</p>
+      <p begin="36450.95s" end="36456.82" dur="5.87s" style="default.center" tts:direction="ltr">Sandra wollte nach dem Tod Ihres Vaters nich' akzeptieren, daß ich'n neuen Freund hatte.</p>
+      <p begin="36456.98s" end="36459.31" dur="2.33s" style="default.center" tts:direction="ltr">Und mit dem Sie noch zusammenleben?</p>
+      <p begin="36459.47s" end="36464.34" dur="4.87s" style="default.center" tts:direction="ltr">Ich dachte damals, die Beziehung wäre schuld, daß Sandra weggegangen is'.</p>
+      <p begin="36464.50s" end="36466.57" dur="2.07s" style="default.center" tts:direction="ltr">Ich mußte mich entscheiden: er.</p>
+      <p begin="36466.73s" end="36468.23" dur="1.50s" style="default.center" tts:direction="ltr">oder meine Tochter.</p>
+      <p begin="36468.39s" end="36471.19" dur="2.80s" style="default.center" tts:direction="ltr">Ich hab so gehofft, sie würde mal anrufen.</p>
+      <p begin="36471.35s" end="36473.75" dur="2.40s" style="default.center" tts:direction="ltr">Wie. hieß denn Ihr damaliger Freund?</p>
+      <p begin="36473.91s" end="36475.41" dur="1.50s" style="default.center" tts:direction="ltr">Peer.</p>
+      <p begin="36475.57s" end="36477.07" dur="1.50s" style="default.center" tts:direction="ltr">Peer.?</p>
+      <p begin="36477.23s" end="36478.73" dur="1.50s" style="default.center" tts:direction="ltr">Andersson.</p>
+      <p begin="36478.89s" end="36481.42" dur="2.53s" style="default.center" tts:direction="ltr">Er war ein guter Freund meines Mannes.</p>
+      <p begin="36481.58s" end="36483.45" dur="1.87s" style="default.center" tts:direction="ltr">Und sein bester Mitarbeiter.</p>
+      <p begin="36483.61s" end="36485.41" dur="1.80s" style="default.center" tts:direction="ltr">Wir hatten einen Surfladen.</p>
+      <p begin="36485.57s" end="36487.90" dur="2.33s" style="default.center" tts:direction="ltr">Und was macht Herr Andersson heute?</p>
+      <p begin="36488.06s" end="36489.56" dur="1.50s" style="default.center" tts:direction="ltr">Weiß ich nicht.</p>
+      <p begin="36489.72s" end="36493.12" dur="3.40s" style="default.center" tts:direction="ltr">Ich hab nur gehört, daß er diesen Surfunfall hatte.</p>
+      <p begin="36493.28s" end="36494.95" dur="1.67s" style="default.center" tts:direction="ltr">Wir haben keinen Kontakt.</p>
+      <p begin="36495.11s" end="36498.57" dur="3.47s" style="default.center" tts:direction="ltr">Das is' jetzt sicher'n unpassender Augenblick, aber.</p>
+      <p begin="36498.73s" end="36502.00" dur="3.27s" style="default.center" tts:direction="ltr">ich würd mich gern mal in Sandras Zimmer umsehen.</p>
+      <p begin="36502.16s" end="36503.66" dur="1.50s" style="default.center" tts:direction="ltr">Geht das?</p>
+      <p begin="36503.82s" end="36505.49" dur="1.67s" style="default.center" tts:direction="ltr">Hatte Sandra 'n Computer?</p>
+      <p begin="36505.65s" end="36507.15" dur="1.50s" style="default.center" tts:direction="ltr">Ja, 'n Laptop?</p>
+      <p begin="36507.31s" end="36510.57" dur="3.27s" style="default.center" tts:direction="ltr">Die Kiste würd ich auch ganz gern noch mitnehmen.</p>
+      <p begin="36510.73s" end="36513.67" dur="2.93s" style="default.center" tts:direction="ltr">Vielleicht finden wir irgendwelche Hinweise.</p>
+      <p begin="36513.83s" end="36515.33" dur="1.50s" style="default.center" tts:direction="ltr">Danke.</p>
+      <p begin="36515.49s" end="36517.95" dur="2.47s" style="default.center" tts:direction="ltr">Soll ich Ihnen'n Glas Wasser bringen?</p>
+      <p begin="36518.11s" end="36519.61" dur="1.50s" style="default.center" tts:direction="ltr">Ich mach das schon.</p>
+      <p begin="36519.77s" end="36522.37" dur="2.60s" style="default.center" tts:direction="ltr">Herr Gerlach, was machen Sie denn hier?</p>
+      <p begin="36522.53s" end="36524.20" dur="1.67s" style="default.center" tts:direction="ltr">Ja das. das frag ich Sie.</p>
+      <p begin="36524.36s" end="36526.09" dur="1.73s" style="default.center" tts:direction="ltr">Ich hab's gerade erfahren.</p>
+      <p begin="36526.25s" end="36530.99" dur="4.73s" style="default.center" tts:direction="ltr">Tschuldigung, aber. das muß jetzt einfach sein. Möchten Sie auch einen?</p>
+      <p begin="36531.15s" end="36532.65" dur="1.50s" style="default.center" tts:direction="ltr">Äh.</p>
+      <p begin="36532.81s" end="36535.47" dur="2.67s" style="default.center" tts:direction="ltr">Klar, ich sehe, . Sie sind ja im Dienst.</p>
+      <p begin="36535.63s" end="36539.83" dur="4.20s" style="default.center" tts:direction="ltr">Sie und Ihre Frau sind schon länger mit Frau Keller befreundet?</p>
+      <p begin="36539.99s" end="36542.93" dur="2.93s" style="default.center" tts:direction="ltr">Jaja, meine Frau war Sandras beste Freundin.</p>
+      <p begin="36543.09s" end="36547.89" dur="4.80s" style="default.center" tts:direction="ltr">Besonders nach dem Tod von Annes Mann waren wir immer häufiger zusammen.</p>
+      <p begin="36548.05s" end="36550.85" dur="2.80s" style="default.center" tts:direction="ltr">Bis sich dieser Andersson eingemischt hat.</p>
+      <p begin="36551.01s" end="36554.41" dur="3.40s" style="default.center" tts:direction="ltr">Es kam zum Streit zwischen Sandra und ihrer Mutter?</p>
+      <p begin="36554.57s" end="36561.17" dur="6.60s" style="default.center" tts:direction="ltr">Sandra war besessen von der Idee, daß Andersson sich nur den Surfladen untern Nagel greifen wollte.</p>
+      <p begin="36561.33s" end="36562.83" dur="1.50s" style="default.center" tts:direction="ltr">Da flogen die Fetzen.</p>
+      <p begin="36562.99s" end="36564.52" dur="1.53s" style="default.center" tts:direction="ltr">Das können Sie glauben.</p>
+      <p begin="36564.68s" end="36567.75" dur="3.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wir haben uns ein wenig in Fellhagen umgehört.</span>
+      </p>
+      <p begin="36567.91s" end="36574.91" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Dieser Peer Andersson hat nicht nur im Laden von Annes Mann mitgeholfen, er war auch einer der erfolgreichsten Surfer von Schleswig-Holstein und.</span>
+      </p>
+      <p begin="36575.07s" end="36576.67" dur="1.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">ein ziemlicher Sunnyboy.</span>
+      </p>
+      <p begin="36576.83s" end="36579.96" dur="3.13s" style="default.center" tts:direction="ltr">Ja, ihm wurden einige Affäre im Ort nachgesagt.</p>
+      <p begin="36580.12s" end="36584.99" dur="4.87s" style="default.center" tts:direction="ltr">So hat seine Beziehung zu Anne Keller auch zu einigem Getratsche geführt.</p>
+      <p begin="36585.15s" end="36590.55" dur="5.40s" style="default.center" tts:direction="ltr">Aber das Interessanteste ist, daß Andersson polizeilich durchaus aktenkundig is'.</p>
+      <p begin="36590.71s" end="36597.71" dur="7.00s" style="default.center" tts:direction="ltr">Sandra Keller hat ihn wenige Tage vor ihrem Verschwinden angezeigt, weil Andersson sie geschlagen haben soll.</p>
+      <p begin="36597.87s" end="36599.37" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Kam es zur Anklage?</span>
+      </p>
+      <p begin="36599.53s" end="36603.33" dur="3.80s" style="default.center" tts:direction="ltr">Nein, Sandra hat ihre Anzeige überraschend zurückgezogen.</p>
+      <p begin="36603.49s" end="36610.49" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Was möglicherweise damit zusammenhängt, daß sich Anne Keller gleichzeitig von Peer Andersson getrennt hat.</span>
+      </p>
+      <p begin="36610.65s" end="36616.38" dur="5.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Vielleicht hat er ja Sandra verantwortlich gemacht für das Scheitern seiner Beziehung.</span>
+      </p>
+      <p begin="36616.54s" end="36620.54" dur="4.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und womöglich erneut sein Temperament nich' im Griff gehabt.</span>
+      </p>
+      <p begin="36620.70s" end="36623.57" dur="2.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Diesen Andersson will ich mal kennenlernen.</span>
+      </p>
+      <p begin="36623.73s" end="36625.23" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Herr Andersson?</span>
+      </p>
+      <p begin="36625.39s" end="36627.45" dur="2.07s" style="default.center" tts:direction="ltr">Ah, ich hab Sie schon erwartet.</p>
+      <p begin="36627.61s" end="36629.35" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Dürfen wir an Bord kommen?</span>
+      </p>
+      <p begin="36629.51s" end="36631.01" dur="1.50s" style="default.center" tts:direction="ltr">Aber bitte.</p>
+      <p begin="36631.17s" end="36635.43" dur="4.27s" style="default.center" tts:direction="ltr">Wie Sie sehen, sind sich hier alle einig, daß ich der Täter bin.</p>
+      <p begin="36635.59s" end="36637.09" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Sind Sie's?</span>
+      </p>
+      <p begin="36637.25s" end="36638.75" dur="1.50s" style="default.center" tts:direction="ltr">Sehr witzig.</p>
+      <p begin="36638.91s" end="36643.05" dur="4.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Immerhin sind Sie gegenüber Sandra Keller gewalttätig gewesen.</span>
+      </p>
+      <p begin="36643.21s" end="36644.71" dur="1.50s" style="default.center" tts:direction="ltr">Ach, Schwachsinn.</p>
+      <p begin="36644.87s" end="36648.80" dur="3.93s" style="default.center" tts:direction="ltr">Sandra hat mich provoziert, und ich bin drauf reingefallen.</p>
+      <p begin="36648.96s" end="36651.76" dur="2.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Das klang in der Anzeige aber ganz anders.</span>
+      </p>
+      <p begin="36651.92s" end="36654.72" dur="2.80s" style="default.center" tts:direction="ltr">Sandra hatte schon immer'n Hang zum Drama.</p>
+      <p begin="36654.88s" end="36657.75" dur="2.87s" style="default.center" tts:direction="ltr">Sie hat's regelrecht drauf ankommen lassen.</p>
+      <p begin="36657.91s" end="36660.37" dur="2.47s" style="default.center" tts:direction="ltr">Womit hat Sandra Sie denn so gereizt?</p>
+      <p begin="36660.53s" end="36666.07" dur="5.53s" style="default.center" tts:direction="ltr">Sie hat mir unterstellt, daß ich mir nur den Surfladen unter den Nagel reißen will.</p>
+      <p begin="36666.23s" end="36667.73" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Und? Ist da was dran?</span>
+      </p>
+      <p begin="36667.89s" end="36669.39" dur="1.50s" style="default.center" tts:direction="ltr">Wie erfrischend.</p>
+      <p begin="36669.55s" end="36675.75" dur="6.20s" style="default.center" tts:direction="ltr">Endlich werden mir mal die Fragen gestellt, die das ganze Dorf sich schon seit Jahren stellt.</p>
+      <p begin="36675.91s" end="36678.91" dur="3.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Sie haben meine Frage noch nicht beantwortet.</span>
+      </p>
+      <p begin="36679.07s" end="36683.33" dur="4.27s" style="default.center" tts:direction="ltr">Also gut, wenn Sie's genau wissen wollen: ich habe Anne geliebt.</p>
+      <p begin="36683.49s" end="36690.49" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Gerade wenn Anne Keller Ihnen so viel bedeutet hat, hätten Sie'n Grund gehabt, auf Sandra wütend zu sein.</span>
+      </p>
+      <p begin="36690.65s" end="36693.45" dur="2.80s" style="default.center" tts:direction="ltr">Das war ich auch, verdammt noch mal, aber.</p>
+      <p begin="36693.61s" end="36696.15" dur="2.53s" style="default.center" tts:direction="ltr">Was wollen Sie, sie war Annes Tochter.</p>
+      <p begin="36696.31s" end="36698.44" dur="2.13s" style="default.center" tts:direction="ltr">Ich hätte ihr nie etwas angetan.</p>
+      <p begin="36698.60s" end="36700.47" dur="1.87s" style="default.center" tts:direction="ltr">Feind. Und? Wie seh ich aus?</p>
+      <p begin="36700.63s" end="36702.13" dur="1.50s" style="default.center" tts:direction="ltr">Beängstigend.</p>
+      <p begin="36702.29s" end="36703.79" dur="1.50s" style="default.center" tts:direction="ltr">So soll es sein.</p>
+      <p begin="36703.95s" end="36708.08" dur="4.13s" style="default.center" tts:direction="ltr">Sag mal, und – äh – Gruber hat Dir dafür wirklich freigegeben?</p>
+      <p begin="36708.24s" end="36710.44" dur="2.20s" style="default.center" tts:direction="ltr">Denkst Du, ich mach das zum Spaß?</p>
+      <p begin="36710.60s" end="36714.80" dur="4.20s" style="default.center" tts:direction="ltr">Zehn Prozent der Einnahmen des Stücks gehen an die DLRG-Jugend.</p>
+      <p begin="36714.96s" end="36716.46" dur="1.50s" style="default.center" tts:direction="ltr">Okay.</p>
+      <p begin="36716.62s" end="36718.35" dur="1.73s" style="default.center" tts:direction="ltr">Na dann – äh – viel Glück.</p>
+      <p begin="36718.51s" end="36722.38" dur="3.87s" style="default.center" tts:direction="ltr">Ja. – Ah, bleib mal hier. Spuck mir mal über die Schulter.</p>
+      <p begin="36722.54s" end="36724.04" dur="1.50s" style="default.center" tts:direction="ltr">Bitte was?</p>
+      <p begin="36724.20s" end="36728.27" dur="4.07s" style="default.center" tts:direction="ltr">Du hast null Ahnung vom Theater. Das bringt Glück. So. Feind.</p>
+      <p begin="36728.43s" end="36731.16" dur="2.73s" style="default.center" tts:direction="ltr">Bitte, bitte, bitte, bitte, bitte, bitte.</p>
+      <p begin="36731.32s" end="36732.82" dur="1.50s" style="default.center" tts:direction="ltr">Ja.</p>
+      <p begin="36732.98s" end="36737.91" dur="4.93s" style="default.center" tts:direction="ltr">Ich dacht schon, ich krieg die alte Möhre überhaupt nich' mehr zum Laufen.</p>
+      <p begin="36738.07s" end="36739.57" dur="1.50s" style="default.center" tts:direction="ltr">Das is' ja mal kraß.</p>
+      <p begin="36739.73s" end="36741.23" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Hm?</span>
+      </p>
+      <p begin="36741.39s" end="36746.33" dur="4.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">– Oh, sieht ganz so aus, als hätte Sandra Keller für Andersson geschwärmt.</span>
+      </p>
+      <p begin="36746.49s" end="36747.99" dur="1.50s" style="default.center" tts:direction="ltr">Ja.</p>
+      <p begin="36748.15s" end="36750.55" dur="2.40s" style="default.center" tts:direction="ltr">Und ich glaube, ich hab da noch was.</p>
+      <p begin="36750.71s" end="36752.21" dur="1.50s" style="default.center" tts:direction="ltr">aus demselben Ordner.</p>
+      <p begin="36752.37s" end="36754.03" dur="1.67s" style="default.center" tts:direction="ltr">Schauen Sie mal hier, hm?</p>
+      <p begin="36754.19s" end="36758.39" dur="4.20s" style="default.center" tts:direction="ltr">Tja, vielleicht war es ja mehr, als nur 'ne kleine Schwärmerei.</p>
+      <p begin="36758.55s" end="36760.05" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Möglich.</span>
+      </p>
+      <p begin="36760.21s" end="36765.21" dur="5.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Aber es ist nich' unbedingt gesagt, daß Andersson dieses Video gedreht hat.</span>
+      </p>
+      <p begin="36765.37s" end="36769.57" dur="4.20s" style="default.center" tts:direction="ltr">Na, da sieh mal einer an. Das hier is' aber garantiert von ihm.</p>
+      <p begin="36769.73s" end="36771.23" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">'N Surfschein.</span>
+      </p>
+      <p begin="36771.39s" end="36772.89" dur="1.50s" style="default.center" tts:direction="ltr">Hmhm.</p>
+      <p begin="36773.05s" end="36775.32" dur="2.27s" style="default.center" tts:direction="ltr">Unterschrieben von Peer Andersson.</p>
+      <p begin="36775.48s" end="36778.21" dur="2.73s" style="default.center" tts:direction="ltr">Er war offensichtlich Sandras Surflehrer.</p>
+      <p begin="36778.37s" end="36783.11" dur="4.73s" style="default.center" tts:direction="ltr">Sieht ja nich' so aus, als ob die beiden schon immer zerstritten waren.</p>
+      <p begin="36783.27s" end="36784.77" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ganz im Gegenteil.</span>
+      </p>
+      <p begin="36784.93s" end="36788.73" dur="3.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ich glaube, Sie müssen noch mal mit Frau Keller sprechen.</span>
+      </p>
+      <p begin="36788.89s" end="36790.39" dur="1.50s" style="default.center" tts:direction="ltr">Okay.</p>
+      <p begin="36790.55s" end="36792.05" dur="1.50s" style="default.center" tts:direction="ltr">Ich mach mal Tee.</p>
+      <p begin="36792.21s" end="36799.21" dur="7.00s" style="default.center" tts:direction="ltr">Wie war eigentlich das Verhältnis zwischen Ihrer Tochter und Herrn Andersson, bevor Sie eine Beziehung mit ihm hatten?</p>
+      <p begin="36799.37s" end="36801.30" dur="1.93s" style="default.center" tts:direction="ltr">Ganz normal, denk ich. Warum?</p>
+      <p begin="36801.46s" end="36804.79" dur="3.33s" style="default.center" tts:direction="ltr">Könnte es sein, daß Sandra für ihn geschwärmt hat?</p>
+      <p begin="36804.95s" end="36806.75" dur="1.80s" style="default.center" tts:direction="ltr">Wie kommen Sie denn darauf?</p>
+      <p begin="36806.91s" end="36810.38" dur="3.47s" style="default.center" tts:direction="ltr">Das Bild hier haben wir auf Sandras Laptop befunden.</p>
+      <p begin="36810.54s" end="36813.67" dur="3.13s" style="default.center" tts:direction="ltr">Sie meinen, daß sie selbst in ihn verliebt war?</p>
+      <p begin="36813.83s" end="36815.33" dur="1.50s" style="default.center" tts:direction="ltr">Möglich wäre es, ja.</p>
+      <p begin="36815.49s" end="36821.69" dur="6.20s" style="default.center" tts:direction="ltr">Ist Ihnen irgend was aufgefallen, daß Herr Andersson diese Schwärmerei erwidert haben könnte?</p>
+      <p begin="36821.85s" end="36824.32" dur="2.47s" style="default.center" tts:direction="ltr">Nein. Peer hätte doch niemals.? Nein.</p>
+      <p begin="36824.48s" end="36825.98" dur="1.50s" style="default.center" tts:direction="ltr">Danke.</p>
+      <p begin="36826.14s" end="36831.27" dur="5.13s" style="default.center" tts:direction="ltr">Und Ihnen, Frau Gerlach, als beste Freundin, is' Ihnen irgendwas aufgefallen?</p>
+      <p begin="36831.43s" end="36835.70" dur="4.27s" style="default.center" tts:direction="ltr">Nein. Sie war anfangs sehr begeistert von Andersson, aber sonst.</p>
+      <p begin="36835.86s" end="36837.36" dur="1.50s" style="default.center" tts:direction="ltr">Frau Stern?</p>
+      <p begin="36837.52s" end="36839.02" dur="1.50s" style="default.center" tts:direction="ltr">Ja?</p>
+      <p begin="36839.18s" end="36840.68" dur="1.50s" style="default.center" tts:direction="ltr">Ich.</p>
+      <p begin="36840.84s" end="36844.17" dur="3.33s" style="default.center" tts:direction="ltr">ich hab Ihnen eben nich' ganz die Wahrheit gesagt.</p>
+      <p begin="36844.33s" end="36846.60" dur="2.27s" style="default.center" tts:direction="ltr">Ich wollte Anne nich' beunruhigen.</p>
+      <p begin="36846.76s" end="36849.29" dur="2.53s" style="default.center" tts:direction="ltr">Sandra war sehr verliebt in Andersson.</p>
+      <p begin="36849.45s" end="36852.85" dur="3.40s" style="default.center" tts:direction="ltr">Also, ich mußte versprechen, es niemandem zu sagen.</p>
+      <p begin="36853.01s" end="36855.75" dur="2.73s" style="default.center" tts:direction="ltr">Ja und hatten die beiden was miteinander?</p>
+      <p begin="36855.91s" end="36858.44" dur="2.53s" style="default.center" tts:direction="ltr">Hmhm. Hat sie zumindest behauptet. Ja.</p>
+      <p begin="36858.60s" end="36861.60" dur="3.00s" style="default.center" tts:direction="ltr">Okay. Das hilft uns sehr weiter. Vielen Dank.</p>
+      <p begin="36861.76s" end="36864.56" dur="2.80s" style="default.center" tts:direction="ltr">Was hast Du mit der Polizistin besprochen?</p>
+      <p begin="36864.72s" end="36866.22" dur="1.50s" style="default.center" tts:direction="ltr">Ich.</p>
+      <p begin="36866.38s" end="36869.78" dur="3.40s" style="default.center" tts:direction="ltr">ich wollt's Dir eigentlich schon viel früher sagen.</p>
+      <p begin="36869.94s" end="36871.44" dur="1.50s" style="default.center" tts:direction="ltr">Ich.</p>
+      <p begin="36871.60s" end="36874.20" dur="2.60s" style="default.center" tts:direction="ltr">ich hatte so 'ne Angst, Dir weh zu tun.</p>
+      <p begin="36874.36s" end="36878.29" dur="3.93s" style="default.center" tts:direction="ltr">Es könnte sein, daß Peer und Sandra was miteinander hatten.</p>
+      <p begin="36878.45s" end="36879.95" dur="1.50s" style="default.center" tts:direction="ltr">Hey, wie war's?</p>
+      <p begin="36880.11s" end="36881.61" dur="1.50s" style="default.center" tts:direction="ltr">Ja super.</p>
+      <p begin="36881.77s" end="36884.11" dur="2.33s" style="default.center" tts:direction="ltr">Die waren total begeistert von mir.</p>
+      <p begin="36884.27s" end="36887.73" dur="3.47s" style="default.center" tts:direction="ltr">Die Rolle is' mir auch wie auf den Leib geschrieben.</p>
+      <p begin="36887.89s" end="36892.63" dur="4.73s" style="default.center" tts:direction="ltr">Die Regisseurin meinte, so eine Darstellung hätte sie noch nie gesehen.</p>
+      <p begin="36892.79s" end="36894.29" dur="1.50s" style="default.center" tts:direction="ltr">Ja also hast Du sie?</p>
+      <p begin="36894.45s" end="36899.45" dur="5.00s" style="default.center" tts:direction="ltr">Ja, aber die müssen fairerweise die andern Bewerber noch vorspielen lassen.</p>
+      <p begin="36899.61s" end="36901.34" dur="1.73s" style="default.center" tts:direction="ltr">Morgen krieg ich das okay.</p>
+      <p begin="36901.50s" end="36903.00" dur="1.50s" style="default.center" tts:direction="ltr">Natürlich.</p>
+      <p begin="36903.16s" end="36905.29" dur="2.13s" style="default.center" tts:direction="ltr">Na, hast Du Dir mal was gegönnt?</p>
+      <p begin="36905.45s" end="36907.85" dur="2.40s" style="default.center" tts:direction="ltr">Das is' aus einem Hotel in Neustadt.</p>
+      <p begin="36908.01s" end="36911.21" dur="3.20s" style="default.center" tts:direction="ltr">Hotel Neptun? Hat Sandra Keller dort gearbeitet?</p>
+      <p begin="36911.37s" end="36913.64" dur="2.27s" style="default.center" tts:direction="ltr">Nein, das hab ich schon überprüft.</p>
+      <p begin="36913.80s" end="36916.67" dur="2.87s" style="default.center" tts:direction="ltr">Na, dann muß Sandra dort übernachtet haben.</p>
+      <p begin="36916.83s" end="36921.36" dur="4.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Und warum soll sie im Hotel übernachten, wenn Sie um die Ecke wohnt?</span>
+      </p>
+      <p begin="36921.52s" end="36926.52" dur="5.00s" style="default.center" tts:direction="ltr">Zumal laut der Homepage das billigste Zimmer hundert Euro die Nacht kostet.</p>
+      <p begin="36926.68s" end="36930.35" dur="3.67s" style="default.center" tts:direction="ltr">Das konnte sie sich als Schülerin sicher nich' leisten.</p>
+      <p begin="36930.51s" end="36932.77" dur="2.27s" style="default.center" tts:direction="ltr">Ich hab da vielleicht 'ne Antwort.</p>
+      <p begin="36932.93s" end="36937.33" dur="4.40s" style="default.center" tts:direction="ltr">Laut Karin Gerlach hat Andersson nämlich Sandras Gefühle erwidert.</p>
+      <p begin="36937.49s" end="36940.29" dur="2.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Sie meinen, die beiden hatten eine Affäre?</span>
+      </p>
+      <p begin="36940.45s" end="36941.95" dur="1.50s" style="default.center" tts:direction="ltr">Hmhm.</p>
+      <p begin="36942.11s" end="36943.98" dur="1.87s" style="default.center" tts:direction="ltr">Respekt. Mutter und Tochter.</p>
+      <p begin="36944.14s" end="36945.64" dur="1.50s" style="default.center" tts:direction="ltr">Feddersen.</p>
+      <p begin="36945.80s" end="36947.30" dur="1.50s" style="default.center" tts:direction="ltr">Hm, ich mein' ja nur.</p>
+      <p begin="36947.46s" end="36954.46" dur="7.00s" style="default.center" tts:direction="ltr">Sollte Andersson mit beiden was gehabt haben, dann hätte er allen Grund gehabt, das nich' an die große Glocke zu hängen.</p>
+      <p begin="36954.62s" end="36961.62" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Frau Stern, erkundigen Sie sich im Hotel Neptun, ob die noch Aufzeichnungen über die Gäste von damals haben.</span>
+      </p>
+      <p begin="36961.78s" end="36963.28" dur="1.50s" style="default.center" tts:direction="ltr">Hmhm.</p>
+      <p begin="36963.44s" end="36966.64" dur="3.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Und wir beide nehmen uns Andersson noch mal vor.</span>
+      </p>
+      <p begin="36966.80s" end="36968.30" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Herr Andersson?</span>
+      </p>
+      <p begin="36968.46s" end="36970.33" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ordnung ist das halbe Leben.</span>
+      </p>
+      <p begin="36970.49s" end="36973.82" dur="3.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Andersson scheint die andere Hälfte zu bevorzugen.</span>
+      </p>
+      <p begin="36973.98s" end="36977.51" dur="3.53s" style="default.center" tts:direction="ltr">Ha, erinnert mich so'n büschen an meine Bauwagenzeit.</p>
+      <p begin="36977.67s" end="36981.74" dur="4.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Bauwagen? Seien Sie froh, daß Sie die Zeit hinter sich haben.</span>
+      </p>
+      <p begin="36981.90s" end="36985.30" dur="3.40s" style="default.center" tts:direction="ltr">Ich bin mir gar nich' so sicher. – Cool. Surf-Punk.</p>
+      <p begin="36985.46s" end="36988.73" dur="3.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Feddersen? Ich glaube, ich hab hier was gefunden.</span>
+      </p>
+      <p begin="36988.89s" end="36992.75" dur="3.87s" style="default.center" tts:direction="ltr">Ist das nich' die angebliche Reiseroute von Sandra Keller?</p>
+      <p begin="36992.91s" end="36994.41" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Allerdings.</span>
+      </p>
+      <p begin="36994.57s" end="36996.24" dur="1.67s" style="default.center" tts:direction="ltr">Was machen Sie denn hier?</p>
+      <p begin="36996.40s" end="36999.87" dur="3.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ich glaube, hier stellt sich eine ganz andere Frage.</span>
+      </p>
+      <p begin="37000.03s" end="37005.23" dur="5.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Das sind die Orte, von denen Sandra Keller angeblich Postkarten geschickt hat.</span>
+      </p>
+      <p begin="37005.39s" end="37007.72" dur="2.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Haben Sie die Postkarten gefälscht?</span>
+      </p>
+      <p begin="37007.88s" end="37011.81" dur="3.93s" style="default.center" tts:direction="ltr">Ich hab mir nur markiert, wo Sandra überall hingereist ist.</p>
+      <p begin="37011.97s" end="37013.47" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Warum?</span>
+      </p>
+      <p begin="37013.63s" end="37018.43" dur="4.80s" style="default.center" tts:direction="ltr">Ich dachte, Anne und ich hätten noch eine Chance, wenn ich Sandra finde.</p>
+      <p begin="37018.59s" end="37021.73" dur="3.13s" style="default.center" tts:direction="ltr">Ich hab mich sogar in den Konsulaten erkundigt.</p>
+      <p begin="37021.89s" end="37024.02" dur="2.13s" style="default.center" tts:direction="ltr">Das können Sie gerne überprüfen.</p>
+      <p begin="37024.18s" end="37025.68" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Hmhm.</span>
+      </p>
+      <p begin="37025.84s" end="37027.34" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Werden wir tun.</span>
+      </p>
+      <p begin="37027.50s" end="37032.10" dur="4.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Woher wußten Sie eigentlich, in welchen Ländern Sandra angeblich war?</span>
+      </p>
+      <p begin="37032.26s" end="37034.19" dur="1.93s" style="default.center" tts:direction="ltr">So was spricht sich doch rum.</p>
+      <p begin="37034.35s" end="37038.42" dur="4.07s" style="default.center" tts:direction="ltr">Da brauchen Sie nur mal zum Bäcker oder zum Metzger zu gehen.</p>
+      <p begin="37038.58s" end="37042.38" dur="3.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Wußten Sie eigentlich, daß Sandra für Sie geschwärmt hat?</span>
+      </p>
+      <p begin="37042.54s" end="37044.74" dur="2.20s" style="default.center" tts:direction="ltr">Nein, das hör ich zum ersten Mal.</p>
+      <p begin="37044.90s" end="37048.43" dur="3.53s" style="default.center" tts:direction="ltr">Wollen Sie mir jetzt eine Affäre mit Sandra anhängen?</p>
+      <p begin="37048.59s" end="37050.66" dur="2.07s" style="default.center" tts:direction="ltr">Sind Sie völlig übergeschnappt?</p>
+      <p begin="37050.82s" end="37056.95" dur="6.13s" style="default.center" tts:direction="ltr">Nur weil sie für mich geschwärmt haben soll, muß ich noch lange nichts mit ihr gehabt haben.</p>
+      <p begin="37057.11s" end="37059.51" dur="2.40s" style="default.center" tts:direction="ltr">Sie war die Tochter meiner Freundin.</p>
+      <p begin="37059.67s" end="37061.17" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">LENA.</span>
+      </p>
+      <p begin="37061.33s" end="37067.67" dur="6.33s" style="default.center" tts:direction="ltr">Ich hab alle männlichen Gäste, die vor Sandras Tod im Hotel Neptun abgestiegen sind, überprüft.</p>
+      <p begin="37067.83s" end="37071.83" dur="4.00s" style="default.center" tts:direction="ltr">Und Peer Andersson ist nicht in die Meldebücher eingetragen.</p>
+      <p begin="37071.99s" end="37076.59" dur="4.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ich fürchte, damit haben wir gegen Andersson nich' genug in der Hand.</span>
+      </p>
+      <p begin="37076.75s" end="37080.41" dur="3.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Danke, Frau Stern, ich sag dem Kapitän gleich Bescheid.</span>
+      </p>
+      <p begin="37080.57s" end="37082.51" dur="1.93s" style="default.center" tts:direction="ltr">So, wir sind erst mal fertig.</p>
+      <p begin="37082.67s" end="37084.67" dur="2.00s" style="default.center" tts:direction="ltr">Falls Sie noch Fragen haben, .</p>
+      <p begin="37084.83s" end="37086.76" dur="1.93s" style="default.center" tts:direction="ltr">können Sie mich gern anrufen.</p>
+      <p begin="37086.92s" end="37088.42" dur="1.50s" style="default.center" tts:direction="ltr">Was hast Du getan?</p>
+      <p begin="37088.58s" end="37090.08" dur="1.50s" style="default.center" tts:direction="ltr">Nichts.</p>
+      <p begin="37090.24s" end="37091.74" dur="1.50s" style="default.center" tts:direction="ltr">Das.</p>
+      <p begin="37091.90s" end="37093.97" dur="2.07s" style="default.center" tts:direction="ltr">sind alles nur Unterstellungen.</p>
+      <p begin="37094.13s" end="37096.33" dur="2.20s" style="default.center" tts:direction="ltr">Ich hab Sandra niemals angerührt.</p>
+      <p begin="37096.49s" end="37099.09" dur="2.60s" style="default.center" tts:direction="ltr">Was hast Du mit meiner Tochter gemacht?</p>
+      <p begin="37099.25s" end="37100.75" dur="1.50s" style="default.center" tts:direction="ltr">Nichts.</p>
+      <p begin="37100.91s" end="37103.24" dur="2.33s" style="default.center" tts:direction="ltr">Hast Du die Postkarten geschrieben?</p>
+      <p begin="37103.40s" end="37107.07" dur="3.67s" style="default.center" tts:direction="ltr">Nein. Nein, so was würd ich nie tun. Das weißt Du doch.</p>
+      <p begin="37107.23s" end="37111.16" dur="3.93s" style="default.center" tts:direction="ltr">Ich habe das Konsulat wegen Anderssons Aussage kontaktiert.</p>
+      <p begin="37111.32s" end="37118.05" dur="6.73s" style="default.center" tts:direction="ltr">Sie melden sich zurück, sobald sie die Telefonabfrage in dem entsprechenden Zeitraum überprüft haben.</p>
+      <p begin="37118.21s" end="37119.71" dur="1.50s" style="default.center" tts:direction="ltr">Danke.</p>
+      <p begin="37119.87s" end="37122.61" dur="2.73s" style="default.center" tts:direction="ltr">Na, sind Dir etwa die Stifte ausgegangen?</p>
+      <p begin="37122.77s" end="37124.27" dur="1.50s" style="default.center" tts:direction="ltr">Sehr witzig.</p>
+      <p begin="37124.43s" end="37130.89" dur="6.47s" style="default.center" tts:direction="ltr">Die KTU soll mal überprüfen, ob Andersson mit einem dieser Stifte die Postkarten geschrieben hat.</p>
+      <p begin="37131.05s" end="37132.55" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">DAVID?</span>
+      </p>
+      <p begin="37132.71s" end="37139.58" dur="6.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ich hab mir mal die Meldeliste aus dem Hotel Neptun angesehen, die Frau Stern uns zusammengestellt hat.</span>
+      </p>
+      <p begin="37139.74s" end="37142.21" dur="2.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Und mir ist da Folgendes aufgefallen.</span>
+      </p>
+      <p begin="37142.37s" end="37143.87" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Gucken Sie mal.</span>
+      </p>
+      <p begin="37144.03s" end="37145.53" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">'Warmbier, Christian'.</span>
+      </p>
+      <p begin="37145.69s" end="37147.19" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ja.</span>
+      </p>
+      <p begin="37147.35s" end="37150.61" dur="3.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Und das ist der Geburtname von Christian Gerlach.</span>
+      </p>
+      <p begin="37150.77s" end="37155.11" dur="4.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Bei seiner Eheschließung hat er den Namen seiner Frau angenommen.</span>
+      </p>
+      <p begin="37155.27s" end="37160.07" dur="4.80s" style="default.center" tts:direction="ltr">Also, wenn ich 'Warmbier' heißen würde, dann. hätt ich das auch gemacht.</p>
+      <p begin="37160.23s" end="37167.23" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Frau Stern, überprüfen Sie doch bitte mal, wie oft und wann Gerlach unter dem Namen 'Warmbier' in dem Hotel abgestiegen is'.</span>
+      </p>
+      <p begin="37167.39s" end="37169.92" dur="2.53s" style="default.center" tts:direction="ltr">Der Name taucht hier ziemlich oft auf.</p>
+      <p begin="37170.08s" end="37172.35" dur="2.27s" style="default.center" tts:direction="ltr">Einmal die Woche, immer mittwochs.</p>
+      <p begin="37172.51s" end="37177.04" dur="4.53s" style="default.center" tts:direction="ltr">Und das letzte Mal genau eine Woche vor Sandra Kellers Verschwinden.</p>
+      <p begin="37177.20s" end="37183.73" dur="6.53s" style="default.center" tts:direction="ltr">Ja, dann war's nich' Peer Andersson, der Sandra im Hotel getroffen hat, sondern Christian Gerlach.</p>
+      <p begin="37183.89s" end="37188.09" dur="4.20s" style="default.center" tts:direction="ltr">Na ja, als frisch verheirateter Mann hätte er ein Motiv gehabt.</p>
+      <p begin="37188.25s" end="37194.32" dur="6.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Zumal er bei einer Scheidung nich' nur seine Frau, sondern auch den Betrieb verloren hätte.</span>
+      </p>
+      <p begin="37194.48s" end="37200.08" dur="5.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Und seine Chance, als Bürgermeister gewählt zu werden, wär auch gleich Null gewesen.</span>
+      </p>
+      <p begin="37200.24s" end="37204.51" dur="4.27s" style="default.center" tts:direction="ltr">Ja, aber eine Sandra Keller kommt in den Meldebüchern nicht vor.</p>
+      <p begin="37204.67s" end="37206.53" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Och, das will nichts heißen.</span>
+      </p>
+      <p begin="37206.69s" end="37210.63" dur="3.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Hotels sind ja heutzutage sehr diskret in dieser Beziehung.</span>
+      </p>
+      <p begin="37210.79s" end="37217.79" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Frau Stern, überprüfen Sie doch auch mal, ob vielleicht jemand vom Personal sich an die beiden erinnern kann.</span>
+      </p>
+      <p begin="37217.95s" end="37219.45" dur="1.50s" style="default.center" tts:direction="ltr">Ah.</p>
+      <p begin="37219.61s" end="37221.11" dur="1.50s" style="default.center" tts:direction="ltr">Hmhm.</p>
+      <p begin="37221.27s" end="37224.60" dur="3.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Den haben wir gestern auf Ihrem Hausboot gefunden.</span>
+      </p>
+      <p begin="37224.76s" end="37231.49" dur="6.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Unsere Ermittlungen haben ergeben, daß die Postkarten eindeutig mit diesem Füller geschrieben wurden.</span>
+      </p>
+      <p begin="37231.65s" end="37233.15" dur="1.50s" style="default.center" tts:direction="ltr">Der gehört mir nicht.</p>
+      <p begin="37233.31s" end="37236.05" dur="2.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Und warum lag er dann auf Ihrem Hausboot?</span>
+      </p>
+      <p begin="37236.21s" end="37239.27" dur="3.07s" style="default.center" tts:direction="ltr">Was weiß ich? Den hat mir jemand unterschoben.</p>
+      <p begin="37239.43s" end="37240.93" dur="1.50s" style="default.center" tts:direction="ltr">Kapitän?</p>
+      <p begin="37241.09s" end="37248.09" dur="7.00s" style="default.center" tts:direction="ltr">Eins der angegebenen Konsulate hat sich gerade zurückgemeldet und bestätigt, daß Andersson sich nach Sandra Keller erkundigt hat.</p>
+      <p begin="37248.25s" end="37251.92" dur="3.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Hm, dann hat er ja vielleicht doch die Wahrheit gesagt.</span>
+      </p>
+      <p begin="37252.08s" end="37258.35" dur="6.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Das würde auch erklären, warum wir keine Fingerabdrücke von ihm auf dem Füller gefunden haben.</span>
+      </p>
+      <p begin="37258.51s" end="37261.71" dur="3.20s" style="default.center" tts:direction="ltr">Ja, aber wie kommt der Füller auf sein Hausboot?</p>
+      <p begin="37261.87s" end="37267.60" dur="5.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Vielleicht hat er ja recht, und es hat ihm tatsächlich jemand das Ding untergeschoben.</span>
+      </p>
+      <p begin="37267.76s" end="37274.29" dur="6.53s" style="default.center" tts:direction="ltr">Vielleicht war Anderssons Anruf auf dem Konsulat auch nur ein Trick, um uns in die Irre zu führen.</p>
+      <p begin="37274.45s" end="37276.99" dur="2.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Das halt ich für wenig wahrscheinlich.</span>
+      </p>
+      <p begin="37277.15s" end="37283.55" dur="6.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Er konnte ja schließlich nich' ahnen, daß die Leiche von Sandra irgendwann wieder gefunden wird.</span>
+      </p>
+      <p begin="37283.71s" end="37288.04" dur="4.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und, Frau Stern? Haben Sie im Hotel Neptun was rausfinden können?</span>
+      </p>
+      <p begin="37288.20s" end="37289.70" dur="1.50s" style="default.center" tts:direction="ltr">Allerdings.</p>
+      <p begin="37289.86s" end="37294.19" dur="4.33s" style="default.center" tts:direction="ltr">Der Concièrge konnte sich sehr gut an Christian Gerlach erinnern.</p>
+      <p begin="37294.35s" end="37297.82" dur="3.47s" style="default.center" tts:direction="ltr">Und nich' nur an ihn, sondern auch an Sandra Keller.</p>
+      <p begin="37297.98s" end="37299.85" dur="1.87s" style="default.center" tts:direction="ltr">Sie hat ihn öfter begleitet.</p>
+      <p begin="37300.01s" end="37303.07" dur="3.07s" style="default.center" tts:direction="ltr">Die beiden hatten also tatsächlich 'ne Affäre.</p>
+      <p begin="37303.23s" end="37306.03" dur="2.80s" style="default.center" tts:direction="ltr">Soll ich Gerlach in die Zentrale vorladen?</p>
+      <p begin="37306.19s" end="37310.73" dur="4.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Nee. Der darf keine Zeit haben, mögliche Beweismittel zu vernichten.</span>
+      </p>
+      <p begin="37310.89s" end="37314.22" dur="3.33s" style="default.center" tts:direction="ltr">Ich hab dir die Lieferkiste vorne ins Auto gelegt.</p>
+      <p begin="37314.38s" end="37317.98" dur="3.60s" style="default.center" tts:direction="ltr">Du müßtest allerdings zuerst ins Restaurant Meerblick.</p>
+      <p begin="37318.14s" end="37320.21" dur="2.07s" style="default.center" tts:direction="ltr">Die haben um drei 'nen Empfang.</p>
+      <p begin="37320.37s" end="37322.03" dur="1.67s" style="default.center" tts:direction="ltr">Ich beeil mich. Bis dann.</p>
+      <p begin="37322.19s" end="37323.69" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Herr Gerlach?</span>
+      </p>
+      <p begin="37323.85s" end="37325.35" dur="1.50s" style="default.center" tts:direction="ltr">Ja.</p>
+      <p begin="37325.51s" end="37329.58" dur="4.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ich muß Sie bitten, mich in die Einsatzzentrale zu begleiten.</span>
+      </p>
+      <p begin="37329.74s" end="37332.81" dur="3.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Meine Kollegen sehen sich solang bei Ihnen um.</span>
+      </p>
+      <p begin="37332.97s" end="37334.47" dur="1.50s" style="default.center" tts:direction="ltr">Äh, und warum?</p>
+      <p begin="37334.63s" end="37339.69" dur="5.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Sie haben sich über vier Monate mit Sandra Keller im Hotel Neptun getroffen.</span>
+      </p>
+      <p begin="37339.85s" end="37341.35" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Hatten Sie Streit?</span>
+      </p>
+      <p begin="37341.51s" end="37344.18" dur="2.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Hat sie gedroht, die Affäre zu verraten?</span>
+      </p>
+      <p begin="37344.34s" end="37345.84" dur="1.50s" style="default.center" tts:direction="ltr">Nein.</p>
+      <p begin="37346.00s" end="37348.93" dur="2.93s" style="default.center" tts:direction="ltr">Sandra und ich, wir hatten eine schöne Zeit.</p>
+      <p begin="37349.09s" end="37352.83" dur="3.73s" style="default.center" tts:direction="ltr">miteinander, und wir haben uns im Einvernehmen getrennt.</p>
+      <p begin="37352.99s" end="37354.49" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Im Einvernehmen.</span>
+      </p>
+      <p begin="37354.65s" end="37358.38" dur="3.73s" style="default.center" tts:direction="ltr">Ja. Wir haben erkannt, daß es so nich' weitergehen kann.</p>
+      <p begin="37358.54s" end="37365.54" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Wollen Sie mir allen Ernstes weismachen, daß eine neunzehnjährige Frau, die für ihr Temperament bekannt war, die Beziehung zu Ihnen einfach so beendet hat?</span>
+      </p>
+      <p begin="37365.70s" end="37368.83" dur="3.13s" style="default.center" tts:direction="ltr">Mein Gott, wir haben ja beide drunter gelitten.</p>
+      <p begin="37368.99s" end="37374.33" dur="5.33s" style="default.center" tts:direction="ltr">Oder glauben Sie, es war einfach für Sandra, ihre beste Freundin zu hintergehen?</p>
+      <p begin="37374.49s" end="37377.22" dur="2.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Das fällt Ihnen aber ganz schön spät ein.</span>
+      </p>
+      <p begin="37377.38s" end="37378.88" dur="1.50s" style="default.center" tts:direction="ltr">Mein.</p>
+      <p begin="37379.04s" end="37380.54" dur="1.50s" style="default.center" tts:direction="ltr">mein.</p>
+      <p begin="37380.70s" end="37383.83" dur="3.13s" style="default.center" tts:direction="ltr">mein Gott, ich weiß ja, daß das nich' toll war.</p>
+      <p begin="37383.99s" end="37386.59" dur="2.60s" style="default.center" tts:direction="ltr">Aber ich hab sie doch nich' umgebracht.</p>
+      <p begin="37386.75s" end="37388.82" dur="2.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Wußte Ihre Frau von der Affäre?</span>
+      </p>
+      <p begin="37388.98s" end="37390.85" dur="1.87s" style="default.center" tts:direction="ltr">Nein. Nein, natürlich nich'.</p>
+      <p begin="37391.01s" end="37392.51" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Das hier.</span>
+      </p>
+      <p begin="37392.67s" end="37397.07" dur="4.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">haben die Kollegen bei der Durchsuchung in Gerlachs Büro gefunden.</span>
+      </p>
+      <p begin="37397.23s" end="37399.09" dur="1.87s" style="default.center" tts:direction="ltr">Hast Du mal'n Stempelkissen?</p>
+      <p begin="37399.25s" end="37400.75" dur="1.50s" style="default.center" tts:direction="ltr">Gern. – Auch Papier?</p>
+      <p begin="37400.91s" end="37403.78" dur="2.87s" style="default.center" tts:direction="ltr">Logisch. Na, das is'n Poststempel von Peru.</p>
+      <p begin="37403.94s" end="37407.27" dur="3.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Diese Stempel haben wir gerade bei Ihnen gefunden.</span>
+      </p>
+      <p begin="37407.43s" end="37409.03" dur="1.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Können Sie das erklären?</span>
+      </p>
+      <p begin="37409.19s" end="37410.69" dur="1.50s" style="default.center" tts:direction="ltr">Nein.</p>
+      <p begin="37410.85s" end="37416.52" dur="5.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Herr Gerlach, ich kann verstehen, daß die Situation damals für Sie nich' einfach war.</span>
+      </p>
+      <p begin="37416.68s" end="37419.01" dur="2.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Wahrscheinlich kam eins zum andern.</span>
+      </p>
+      <p begin="37419.17s" end="37424.04" dur="4.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Sie wollten sich von Sandra trennen, aber Sandra hat es nicht akzeptiert.</span>
+      </p>
+      <p begin="37424.20s" end="37425.70" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Es kam zum Streit.</span>
+      </p>
+      <p begin="37425.86s" end="37427.93" dur="2.07s" style="default.center" tts:direction="ltr">Nein. Nein, das ist nicht wahr.</p>
+      <p begin="37428.09s" end="37434.95" dur="6.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Wollen Sie angesichts dieser erdrückenden Beweise ernsthaft leugnen, die Postkarten gefälscht zu haben?</span>
+      </p>
+      <p begin="37435.11s" end="37436.61" dur="1.50s" style="default.center" tts:direction="ltr">Scheiß Karre.</p>
+      <p begin="37436.77s" end="37439.71" dur="2.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Sind die Stempel endlich aus der KTU zurück?</span>
+      </p>
+      <p begin="37439.87s" end="37443.33" dur="3.47s" style="default.center" tts:direction="ltr">Ja, aber leider ohne Ergebnis. Keine Fingerabdrücke.</p>
+      <p begin="37443.49s" end="37447.63" dur="4.13s" style="default.center" tts:direction="ltr">Na super. Dann. können wir uns ja jetzt selber Stempel machen.</p>
+      <p begin="37447.79s" end="37449.29" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Komisch.</span>
+      </p>
+      <p begin="37449.45s" end="37450.95" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Stimmt was nich'?</span>
+      </p>
+      <p begin="37451.11s" end="37454.11" dur="3.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Hm. na klar. Das ist Linkshänderwerkzeug. Ja.</span>
+      </p>
+      <p begin="37454.27s" end="37455.77" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ja, eindeutig.</span>
+      </p>
+      <p begin="37455.93s" end="37459.19" dur="3.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Dann kann's Christian Gerlach nich' gewesen sein.</span>
+      </p>
+      <p begin="37459.35s" end="37461.49" dur="2.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ich glaub, der ist Rechtshänder.</span>
+      </p>
+      <p begin="37461.65s" end="37466.25" dur="4.60s" style="default.center" tts:direction="ltr">Und Andersson kommt mit seinem steifen Arm erst recht nich' in Frage.</p>
+      <p begin="37466.41s" end="37468.54" dur="2.13s" style="default.center" tts:direction="ltr">Karin Gerlach is' Linkshänderin.</p>
+      <p begin="37468.70s" end="37473.37" dur="4.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Dann hat Gerlach sich geirrt und seine Frau wußte doch von der Affäre.</span>
+      </p>
+      <p begin="37473.53s" end="37478.13" dur="4.60s" style="default.center" tts:direction="ltr">Dann war die Freundschaft zu Anne Keller die ganze Zeit nur gespielt?</p>
+      <p begin="37478.29s" end="37485.29" dur="7.00s" style="default.center" tts:direction="ltr">Ja, auch wenn's absurd klingt, aber vielleicht wollte sie so wieder gutmachen, was sie damals Schreckliches getan hat.</p>
+      <p begin="37485.45s" end="37488.31" dur="2.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Wir dürfen keine Zeit verlieren. Frau Berg.</span>
+      </p>
+      <p begin="37488.47s" end="37492.54" dur="4.07s" style="default.center" tts:direction="ltr">Ganz schön clever von Dir, mir Deinen Füller unterzuschieben.</p>
+      <p begin="37492.70s" end="37494.83" dur="2.13s" style="default.center" tts:direction="ltr">Keine Ahnung, wovon Du sprichst.</p>
+      <p begin="37494.99s" end="37499.26" dur="4.27s" style="default.center" tts:direction="ltr">Tu doch nich' so scheinheilig. Ich hab den Füller genau erkannt.</p>
+      <p begin="37499.42s" end="37502.35" dur="2.93s" style="default.center" tts:direction="ltr">Ich hab keine Ahnung, was Du von mir willst.</p>
+      <p begin="37502.51s" end="37505.71" dur="3.20s" style="default.center" tts:direction="ltr">Sag mir nur warum. Warum hast Du sie umgebracht?</p>
+      <p begin="37505.87s" end="37508.21" dur="2.33s" style="default.center" tts:direction="ltr">Ich dachte, sie wär meine Freundin.</p>
+      <p begin="37508.37s" end="37510.30" dur="1.93s" style="default.center" tts:direction="ltr">Stell Dich nich' so an. Haha.</p>
+      <p begin="37510.46s" end="37513.73" dur="3.27s" style="default.center" tts:direction="ltr">Schlampe. - Hey, was? Wach ma' auf. Ach ma'. Hey.</p>
+      <p begin="37513.89s" end="37515.75" dur="1.87s" style="default.center" tts:direction="ltr">Sie hat alles kaputtgemacht.</p>
+      <p begin="37515.91s" end="37518.58" dur="2.67s" style="default.center" tts:direction="ltr">Sandra? Du. Du hast alles kaputtgemacht.</p>
+      <p begin="37518.74s" end="37520.34" dur="1.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Andersson muß hier sein.</span>
+      </p>
+      <p begin="37520.50s" end="37522.00" dur="1.50s" style="default.center" tts:direction="ltr">Scheiße.</p>
+      <p begin="37522.16s" end="37525.09" dur="2.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ich schnapp mir die Gerlach. Suchen Sie ihn.</span>
+      </p>
+      <p begin="37525.25s" end="37528.59" dur="3.33s" style="default.center" tts:direction="ltr">Ich wollte das nich'. Ich bin einfach ausgerastet.</p>
+      <p begin="37528.75s" end="37532.41" dur="3.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Andersson? – Andersson. – Kommen Sie. – Geht's? Ja. So.</span>
+      </p>
+      <p begin="37532.57s" end="37534.77" dur="2.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Der Krankenwagen is' gleich hier.</span>
+      </p>
+      <p begin="37534.93s" end="37536.43" dur="1.50s" style="default.center" tts:direction="ltr">Ich werde kämpfen.</p>
+      <p begin="37536.59s" end="37538.09" dur="1.50s" style="default.center" tts:direction="ltr">Mann gegen Mann.</p>
+      <p begin="37538.25s" end="37539.75" dur="1.50s" style="default.center" tts:direction="ltr">Der Kampf is vorbei.</p>
+      <p begin="37539.91s" end="37541.91" dur="2.00s" style="default.center" tts:direction="ltr">Doch die Schlacht geht weiter.</p>
+      <p begin="37542.07s" end="37544.41" dur="2.33s" style="default.center" tts:direction="ltr">Entbehrlich die Verräter unter uns.</p>
+      <p begin="37544.57s" end="37546.43" dur="1.87s" style="default.center" tts:direction="ltr">Der Tod ist erst der Anfang.</p>
+      <p begin="37546.59s" end="37548.09" dur="1.50s" style="default.center" tts:direction="ltr">.</p>
+      <p begin="37548.25s" end="37549.79" dur="1.53s" style="default.center" tts:direction="ltr">Im Westen nichts Neues.</p>
+      <p begin="37549.95s" end="37551.75" dur="1.80s" style="default.center" tts:direction="ltr">Jippie-aieh, Schweinebacke.</p>
+      <p begin="37551.91s" end="37555.71" dur="3.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ich glaube, er hat die Absage noch nicht ganz verkraftet.</span>
+      </p>
+    </div>
+  </body>
+</tt>
